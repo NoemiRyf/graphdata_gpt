@@ -1,0 +1,151 @@
+Pair ID,Schedule Type,Order Number,Scene Number,Actors,Equipment,Location,Coordinates,Duration
+26,Schedule Plan 1,1,Scene 1,"Eva Schmidt, Hans Müller","Camera B, Microphone C",Zürich Hauptbahnhof,"(47.3782, 8.5402)",2h
+26,Schedule Plan 1,2,Scene 2,"Hans Müller, Laura Becker","Microphone C, Camera D",Zürich Opernhaus,"(47.3656, 8.5463)",1h
+26,Schedule Plan 1,3,Scene 3,"Laura Becker, Tim Braun","Camera D, Drone E",Zürich Zoo,"(47.3854, 8.5740)",3h
+26,Schedule Plan 2,1,Scene 1,"Eva Schmidt, Hans Müller","Camera B, Microphone C",Zürich Hauptbahnhof,"(47.3782, 8.5402)",2h
+26,Schedule Plan 2,2,Scene 2,"Hans Müller, Laura Becker","Microphone C, Camera D",Zürich Zoo,"(47.3854, 8.5740)",3h
+26,Schedule Plan 2,3,Scene 3,"Laura Becker, Tim Braun","Camera D, Drone E",Zürich Opernhaus,"(47.3656, 8.5463)",1h
+27,Schedule Plan 1,1,Scene 1,"Anna Klein, John Fischer","Camera F, Boom Mic G",Bern Bundesplatz,"(46.9466, 7.4446)",2h
+27,Schedule Plan 1,2,Scene 2,"John Fischer, Clara Neumann","Camera F, Microphone H",Bern Münster,"(46.9481, 7.4512)",1h
+27,Schedule Plan 1,3,Scene 3,"Clara Neumann, Karl Schulz","Microphone H, Drone I",Bern Bärenpark,"(46.9489, 7.4561)",3h
+27,Schedule Plan 2,1,Scene 1,"Anna Klein, John Fischer","Camera F, Boom Mic G",Bern Bundesplatz,"(46.9466, 7.4446)",2h
+27,Schedule Plan 2,2,Scene 3,"Clara Neumann, Karl Schulz","Microphone H, Drone I",Bern Bärenpark,"(46.9489, 7.4561)",3h
+27,Schedule Plan 2,3,Scene 2,"John Fischer, Clara Neumann","Camera F, Microphone H",Bern Münster,"(46.9481, 7.4512)",1h
+28,Schedule Plan 1,1,Scene 1,"Sarah Bauer, Tom Schmidt","Camera J, Lighting K",Genf Jet d'Eau,"(46.2074, 6.1500)",2h
+28,Schedule Plan 1,2,Scene 2,"Tom Schmidt, Lisa Neumann","Camera J, Microphone L",Genf Altstadt,"(46.2000, 6.1479)",1h
+28,Schedule Plan 1,3,Scene 3,"Lisa Neumann, Mark Weber","Microphone L, Drone M",Genf Botanischer Garten,"(46.2265, 6.1486)",3h
+28,Schedule Plan 2,1,Scene 1,"Sarah Bauer, Tom Schmidt","Camera J, Lighting K",Genf Jet d'Eau,"(46.2074, 6.1500)",2h
+28,Schedule Plan 2,2,Scene 3,"Lisa Neumann, Mark Weber","Microphone L, Drone M",Genf Botanischer Garten,"(46.2265, 6.1486)",3h
+28,Schedule Plan 2,3,Scene 2,"Tom Schmidt, Lisa Neumann","Camera J, Microphone L",Genf Altstadt,"(46.2000, 6.1479)",1h
+29,Schedule Plan 1,1,Scene 1,"Clara Müller, Tom Becker","Camera N, Boom Mic O",Lausanne Kathedrale,"(46.5222, 6.6359)",3h
+29,Schedule Plan 1,2,Scene 2,"Tom Becker, Lisa Braun","Camera N, Gimbal P",Lausanne Ouchy,"(46.5076, 6.6244)",1h
+29,Schedule Plan 1,3,Scene 3,"Lisa Braun, Mark Richter","Gimbal P, Drone Q",Lausanne Olympisches Museum,"(46.5081, 6.6346)",2h
+29,Schedule Plan 2,1,Scene 1,"Clara Müller, Tom Becker","Camera N, Boom Mic O",Lausanne Kathedrale,"(46.5222, 6.6359)",3h
+29,Schedule Plan 2,2,Scene 3,"Lisa Braun, Mark Richter","Gimbal P, Drone Q",Lausanne Olympisches Museum,"(46.5081, 6.6346)",2h
+29,Schedule Plan 2,3,Scene 2,"Tom Becker, Lisa Braun","Camera N, Gimbal P",Lausanne Ouchy,"(46.5076, 6.6244)",1h
+30,Schedule Plan 1,1,Scene 1,"Nina Hoffmann, Alex Meier","Camera R, Tripod S",Basel Marktplatz,"(47.5584, 7.5870)",2h
+30,Schedule Plan 1,2,Scene 2,"Alex Meier, Eva Schulz","Camera R, Microphone T, Tripod S",Basel Münster,"(47.5566, 7.5926)",1h
+30,Schedule Plan 1,3,Scene 3,"Eva Schulz, Chris Weber","Microphone T, Drone U",Basel Zoo,"(47.5482, 7.5806)",3h
+30,Schedule Plan 2,1,Scene 1,"Nina Hoffmann, Alex Meier","Camera R, Tripod S",Basel Marktplatz,"(47.5584, 7.5870)",2h
+30,Schedule Plan 2,2,Scene 3,"Eva Schulz, Chris Weber","Microphone T, Drone U",Basel Zoo,"(47.5482, 7.5806)",3h
+30,Schedule Plan 2,3,Scene 2,"Alex Meier, Eva Schulz","Camera R, Microphone T, Tripod S",Basel Münster,"(47.5566, 7.5926)",1h
+31,Schedule Plan 1,1,Scene 1,"Leon Berger, Mia Klein","Camera V, Drone W",Lugano Seeufer,"(46.0037, 8.9511)",3h
+31,Schedule Plan 1,2,Scene 2,"Mia Klein, Felix Braun","Camera V, Gimbal X",Lugano Altstadt,"(46.0053, 8.9511)",1h
+31,Schedule Plan 1,3,Scene 3,"Felix Braun, Laura Weber","Gimbal X, Microphone Y",Monte Brè,"(46.0112, 8.9790)",2h
+31,Schedule Plan 2,1,Scene 1,"Leon Berger, Mia Klein","Camera V, Drone W",Lugano Seeufer,"(46.0037, 8.9511)",3h
+31,Schedule Plan 2,2,Scene 3,"Felix Braun, Laura Weber","Gimbal X, Microphone Y",Monte Brè,"(46.0112, 8.9790)",2h
+31,Schedule Plan 2,3,Scene 2,"Mia Klein, Felix Braun","Camera V, Gimbal X",Lugano Altstadt,"(46.0053, 8.9511)",1h
+32,Schedule Plan 1,1,Scene 1,"Anna Fischer, Tom Becker","Camera Z, Microphone A",Zürich Seeufer,"(47.3646, 8.5496)",2h
+32,Schedule Plan 1,2,Scene 2,"Tom Becker, Lisa Meier","Camera Z, Drone B",Zürich Altstadt,"(47.3722, 8.5425)",1h
+32,Schedule Plan 1,3,Scene 3,"Lisa Meier, Max Hoffmann","Drone B, Gimbal C",Zürich Lindenhof,"(47.3711, 8.5418)",3h
+32,Schedule Plan 2,1,Scene 1,"Anna Fischer, Tom Becker","Camera Z, Microphone A",Zürich Seeufer,"(47.3646, 8.5496)",2h
+32,Schedule Plan 2,2,Scene 3,"Lisa Meier, Max Hoffmann","Drone B, Gimbal C",Zürich Lindenhof,"(47.3711, 8.5418)",3h
+32,Schedule Plan 2,3,Scene 2,"Tom Becker, Lisa Meier","Camera Z, Drone B",Zürich Altstadt,"(47.3722, 8.5425)",1h
+33,Schedule Plan 1,1,Scene 1,"Lena Schmidt, Jan Fischer","Camera D, Tripod E",Luzern Kapellbrücke,"(47.0512, 8.3073)",3h
+33,Schedule Plan 1,2,Scene 2,"Jan Fischer, Marie Klein","Camera D, Gimbal F",Luzern Löwendenkmal,"(47.0554, 8.3103)",1h
+33,Schedule Plan 1,3,Scene 3,"Marie Klein, Mark Weber","Gimbal F, Microphone G",Luzern Verkehrshaus,"(47.0502, 8.3354)",2h
+33,Schedule Plan 2,1,Scene 1,"Lena Schmidt, Jan Fischer","Camera D, Tripod E",Luzern Kapellbrücke,"(47.0512, 8.3073)",3h
+33,Schedule Plan 2,2,Scene 3,"Marie Klein, Mark Weber","Gimbal F, Microphone G",Luzern Verkehrshaus,"(47.0502, 8.3354)",2h
+33,Schedule Plan 2,3,Scene 2,"Jan Fischer, Marie Klein","Camera D, Gimbal F",Luzern Löwendenkmal,"(47.0554, 8.3103)",1h
+34,Schedule Plan 1,1,Scene 1,"Nora Fischer, Max Weber, Laura Müller","Lens H, Gimbal I",Genf Palais des Nations,"(46.2266, 6.1496)",2h
+34,Schedule Plan 1,2,Scene 2,"Max Weber, Clara Meyer, Laura Müller","Gimbal I, Drone J",Genf Parc La Grange,"(46.2070, 6.1649)",1h
+34,Schedule Plan 1,3,Scene 3,"Clara Meyer, Nora Fischer","Drone J, Lens K",Genf Botanischer Garten,"(46.2265, 6.1486)",3h
+34,Schedule Plan 2,1,Scene 1,"Nora Fischer, Max Weber, Laura Müller","Lens H, Gimbal I",Genf Palais des Nations,"(46.2266, 6.1496)",2h
+34,Schedule Plan 2,2,Scene 3,"Clara Meyer, Nora Fischer","Drone J, Lens K",Genf Botanischer Garten,"(46.2265, 6.1486)",3h
+34,Schedule Plan 2,3,Scene 2,"Max Weber, Clara Meyer, Laura Müller","Gimbal I, Drone J",Genf Parc La Grange,"(46.2070, 6.1649)",1h
+35,Schedule Plan 1,1,Scene 1,"Eva Schmidt, Hans Müller","Camera L, Microphone M",Bern Rosengarten,"(46.9522, 7.4593)",2h
+35,Schedule Plan 1,2,Scene 2,"Hans Müller, Laura Becker","Microphone M, Camera N",Bern Zytglogge,"(46.9488, 7.4474)",1h
+35,Schedule Plan 1,3,Scene 3,"Laura Becker, Tim Braun","Camera N, Drone O",Bern Gurten,"(46.9312, 7.4514)",3h
+35,Schedule Plan 2,1,Scene 1,"Eva Schmidt, Hans Müller","Camera L, Microphone M",Bern Rosengarten,"(46.9522, 7.4593)",2h
+35,Schedule Plan 2,2,Scene 3,"Laura Becker, Tim Braun","Camera N, Drone O",Bern Gurten,"(46.9312, 7.4514)",3h
+35,Schedule Plan 2,3,Scene 2,"Hans Müller, Laura Becker","Microphone M, Camera N",Bern Zytglogge,"(46.9488, 7.4474)",1h
+36,Schedule Plan 1,1,Scene 1,"Anna Klein, John Fischer","Camera P, Boom Mic Q",Basel Rathaus,"(47.5581, 7.5886)",2h
+36,Schedule Plan 1,2,Scene 2,"John Fischer, Clara Neumann","Camera P, Microphone R",Basel Tinguely-Brunnen,"(47.5546, 7.5950)",1h
+36,Schedule Plan 1,3,Scene 3,"Clara Neumann, Karl Schulz","Microphone R, Drone S",Basel Dreiländereck,"(47.5861, 7.5929)",3h
+36,Schedule Plan 2,1,Scene 1,"Anna Klein, John Fischer","Camera P, Boom Mic Q",Basel Rathaus,"(47.5581, 7.5886)",2h
+36,Schedule Plan 2,2,Scene 3,"Clara Neumann, Karl Schulz","Microphone R, Drone S",Basel Dreiländereck,"(47.5861, 7.5929)",3h
+36,Schedule Plan 2,3,Scene 2,"John Fischer, Clara Neumann","Camera P, Microphone R",Basel Tinguely-Brunnen,"(47.5546, 7.5950)",1h
+37,Schedule Plan 1,1,Scene 1,"Sarah Bauer, Tom Schmidt","Camera T, Lighting U",Zürich Uetliberg,"(47.3499, 8.4924)",2h
+37,Schedule Plan 1,2,Scene 2,"Tom Schmidt, Lisa Neumann","Camera T, Microphone V",Zürich Niederdorf,"(47.3730, 8.5439)",1h
+37,Schedule Plan 1,3,Scene 3,"Lisa Neumann, Mark Weber","Microphone V, Drone W",Zürich Bahnhofstrasse,"(47.3759, 8.5392)",3h
+37,Schedule Plan 2,1,Scene 1,"Sarah Bauer, Tom Schmidt","Camera T, Lighting U",Zürich Uetliberg,"(47.3499, 8.4924)",2h
+37,Schedule Plan 2,2,Scene 3,"Lisa Neumann, Mark Weber","Microphone V, Drone W",Zürich Bahnhofstrasse,"(47.3759, 8.5392)",3h
+37,Schedule Plan 2,3,Scene 2,"Tom Schmidt, Lisa Neumann","Camera T, Microphone V",Zürich Niederdorf,"(47.3730, 8.5439)",1h
+38,Schedule Plan 1,1,Scene 1,"Clara Müller, Tom Becker","Camera X, Boom Mic Y",Genf Parc des Bastions,"(46.2012, 6.1459)",3h
+38,Schedule Plan 1,2,Scene 2,"Tom Becker, Lisa Braun","Camera X, Gimbal Z",Genf St. Pierre Kathedrale,"(46.2019, 6.1484)",1h
+38,Schedule Plan 1,3,Scene 3,"Lisa Braun, Mark Richter","Gimbal Z, Drone A1",Genf Patek Philippe Museum,"(46.2028, 6.1375)",2h
+38,Schedule Plan 2,1,Scene 1,"Clara Müller, Tom Becker","Camera X, Boom Mic Y",Genf Parc des Bastions,"(46.2012, 6.1459)",3h
+38,Schedule Plan 2,2,Scene 3,"Lisa Braun, Mark Richter","Gimbal Z, Drone A1",Genf Patek Philippe Museum,"(46.2028, 6.1375)",2h
+38,Schedule Plan 2,3,Scene 2,"Tom Becker, Lisa Braun","Camera X, Gimbal Z",Genf St. Pierre Kathedrale,"(46.2019, 6.1484)",1h
+39,Schedule Plan 1,1,Scene 1,"Nina Hoffmann, Alex Meier","Camera B1, Tripod C1",Lausanne Vidy Park,"(46.5155, 6.6126)",2h
+39,Schedule Plan 1,2,Scene 2,"Alex Meier, Eva Schulz","Camera B1, Microphone D1, Tripod C1",Lausanne Sauvabelin Turm,"(46.5286, 6.6359)",1h
+39,Schedule Plan 1,3,Scene 3,"Eva Schulz, Chris Weber","Microphone D1, Drone E1",Lausanne Esplanade de Montbenon,"(46.5197, 6.6312)",3h
+39,Schedule Plan 2,1,Scene 1,"Nina Hoffmann, Alex Meier","Camera B1, Tripod C1",Lausanne Vidy Park,"(46.5155, 6.6126)",2h
+39,Schedule Plan 2,2,Scene 3,"Eva Schulz, Chris Weber","Microphone D1, Drone E1",Lausanne Esplanade de Montbenon,"(46.5197, 6.6312)",3h
+39,Schedule Plan 2,3,Scene 2,"Alex Meier, Eva Schulz","Camera B1, Microphone D1, Tripod C1",Lausanne Sauvabelin Turm,"(46.5286, 6.6359)",1h
+40,Schedule Plan 1,1,Scene 1,"Eva Schmidt, Hans Müller","Camera B, Microphone C",Zürich Altstadt,"(47.3722, 8.5425)",2h
+40,Schedule Plan 1,2,Scene 2,"Hans Müller, Laura Becker","Microphone C, Camera D",Zürich Lindenhof,"(47.3711, 8.5418)",1h
+40,Schedule Plan 1,3,Scene 3,"Laura Becker, Tim Braun","Camera D, Drone E",Zürich Zoo,"(47.3854, 8.5740)",3h
+40,Schedule Plan 2,1,Scene 1,"Eva Schmidt, Hans Müller","Camera B, Microphone C",Zürich Altstadt,"(47.3722, 8.5425)",2h
+40,Schedule Plan 2,2,Scene 3,"Laura Becker, Tim Braun","Camera D, Drone E",Zürich Zoo,"(47.3854, 8.5740)",3h
+40,Schedule Plan 2,3,Scene 2,"Hans Müller, Laura Becker","Microphone C, Camera D",Zürich Lindenhof,"(47.3711, 8.5418)",1h
+41,Schedule Plan 1,1,Scene 1,"Anna Klein, John Fischer","Camera F, Boom Mic G",Luzern Pilatus,"(46.9784, 8.2526)",2h
+41,Schedule Plan 1,2,Scene 2,"John Fischer, Clara Neumann","Camera F, Microphone H",Luzern Kapellbrücke,"(47.0512, 8.3073)",1h
+41,Schedule Plan 1,3,Scene 3,"Clara Neumann, Karl Schulz","Microphone H, Drone I",Luzern Verkehrshaus,"(47.0502, 8.3354)",3h
+41,Schedule Plan 2,1,Scene 1,"Anna Klein, John Fischer","Camera F, Boom Mic G",Luzern Pilatus,"(46.9784, 8.2526)",2h
+41,Schedule Plan 2,2,Scene 3,"Clara Neumann, Karl Schulz","Microphone H, Drone I",Luzern Verkehrshaus,"(47.0502, 8.3354)",3h
+41,Schedule Plan 2,3,Scene 2,"John Fischer, Clara Neumann","Camera F, Microphone H",Luzern Kapellbrücke,"(47.0512, 8.3073)",1h
+42,Schedule Plan 1,1,Scene 1,"Sarah Bauer, Tom Schmidt","Camera J, Lighting K",Genf Jardin Anglais,"(46.2044, 6.1513)",2h
+42,Schedule Plan 1,2,Scene 2,"Tom Schmidt, Lisa Neumann","Camera J, Microphone L",Genf Place du Bourg-de-Four,"(46.2013, 6.1483)",1h
+42,Schedule Plan 1,3,Scene 3,"Lisa Neumann, Mark Weber","Microphone L, Drone M",Genf Parc des Bastions,"(46.2012, 6.1459)",3h
+42,Schedule Plan 2,1,Scene 1,"Sarah Bauer, Tom Schmidt","Camera J, Lighting K",Genf Jardin Anglais,"(46.2044, 6.1513)",2h
+42,Schedule Plan 2,2,Scene 3,"Lisa Neumann, Mark Weber","Microphone L, Drone M",Genf Parc des Bastions,"(46.2012, 6.1459)",3h
+42,Schedule Plan 2,3,Scene 2,"Tom Schmidt, Lisa Neumann","Camera J, Microphone L",Genf Place du Bourg-de-Four,"(46.2013, 6.1483)",1h
+43,Schedule Plan 1,1,Scene 1,"Clara Müller, Tom Becker","Camera N, Boom Mic O",Bern Bundeshaus,"(46.9465, 7.4444)",3h
+43,Schedule Plan 1,2,Scene 2,"Tom Becker, Lisa Braun","Camera N, Gimbal P",Bern Bundesplatz,"(46.9466, 7.4446)",1h
+43,Schedule Plan 1,3,Scene 3,"Lisa Braun, Mark Richter","Gimbal P, Drone Q",Bern Rosengarten,"(46.9522, 7.4593)",2h
+43,Schedule Plan 2,1,Scene 1,"Clara Müller, Tom Becker","Camera N, Boom Mic O",Bern Bundeshaus,"(46.9465, 7.4444)",3h
+43,Schedule Plan 2,2,Scene 3,"Lisa Braun, Mark Richter","Gimbal P, Drone Q",Bern Rosengarten,"(46.9522, 7.4593)",2h
+43,Schedule Plan 2,3,Scene 2,"Tom Becker, Lisa Braun","Camera N, Gimbal P",Bern Bundesplatz,"(46.9466, 7.4446)",1h
+44,Schedule Plan 1,1,Scene 1,"Nina Hoffmann, Alex Meier","Camera R, Tripod S",Zürich Limmatquai,"(47.3707, 8.5435)",2h
+44,Schedule Plan 1,2,Scene 2,"Alex Meier, Eva Schulz","Camera R, Microphone T, Tripod S",Zürich Altstadt,"(47.3722, 8.5425)",1h
+44,Schedule Plan 1,3,Scene 3,"Eva Schulz, Chris Weber","Microphone T, Drone U",Zürich Seebad Enge,"(47.3638, 8.5335)",3h
+44,Schedule Plan 2,1,Scene 1,"Nina Hoffmann, Alex Meier","Camera R, Tripod S",Zürich Limmatquai,"(47.3707, 8.5435)",2h
+44,Schedule Plan 2,2,Scene 3,"Eva Schulz, Chris Weber","Microphone T, Drone U",Zürich Seebad Enge,"(47.3638, 8.5335)",3h
+44,Schedule Plan 2,3,Scene 2,"Alex Meier, Eva Schulz","Camera R, Microphone T, Tripod S",Zürich Altstadt,"(47.3722, 8.5425)",1h
+45,Schedule Plan 1,1,Scene 1,"Leon Berger, Mia Klein","Camera V, Drone W",Lugano Parco Ciani,"(46.0024, 8.9552)",3h
+45,Schedule Plan 1,2,Scene 2,"Mia Klein, Felix Braun","Camera V, Gimbal X",Lugano Altstadt,"(46.0053, 8.9511)",1h
+45,Schedule Plan 1,3,Scene 3,"Felix Braun, Laura Weber","Gimbal X, Microphone Y",Lugano Monte San Salvatore,"(45.9863, 8.9262)",2h
+45,Schedule Plan 2,1,Scene 1,"Leon Berger, Mia Klein","Camera V, Drone W",Lugano Parco Ciani,"(46.0024, 8.9552)",3h
+45,Schedule Plan 2,2,Scene 3,"Felix Braun, Laura Weber","Gimbal X, Microphone Y",Lugano Monte San Salvatore,"(45.9863, 8.9262)",2h
+45,Schedule Plan 2,3,Scene 2,"Mia Klein, Felix Braun","Camera V, Gimbal X",Lugano Altstadt,"(46.0053, 8.9511)",1h
+46,Schedule Plan 1,1,Scene 1,"Anna Fischer, Tom Becker","Camera Z, Microphone A",Interlaken Harder Kulm,"(46.6956, 7.8884)",2h
+46,Schedule Plan 1,2,Scene 2,"Tom Becker, Lisa Meier","Camera Z, Drone B",Interlaken Höheweg,"(46.6863, 7.8563)",1h
+46,Schedule Plan 1,3,Scene 3,"Lisa Meier, Max Hoffmann","Drone B, Gimbal C",Interlaken Jungfraujoch,"(46.5476, 7.9809)",3h
+46,Schedule Plan 2,1,Scene 1,"Anna Fischer, Tom Becker","Camera Z, Microphone A",Interlaken Harder Kulm,"(46.6956, 7.8884)",2h
+46,Schedule Plan 2,2,Scene 3,"Lisa Meier, Max Hoffmann","Drone B, Gimbal C",Interlaken Jungfraujoch,"(46.5476, 7.9809)",3h
+46,Schedule Plan 2,3,Scene 2,"Tom Becker, Lisa Meier","Camera Z, Drone B",Interlaken Höheweg,"(46.6863, 7.8563)",1h
+47,Schedule Plan 1,1,Scene 1,"Lena Schmidt, Jan Fischer","Camera D, Tripod E",Locarno Piazza Grande,"(46.1696, 8.7955)",3h
+47,Schedule Plan 1,2,Scene 2,"Jan Fischer, Marie Klein","Camera D, Gimbal F",Locarno Madonna del Sasso,"(46.1733, 8.7969)",1h
+47,Schedule Plan 1,3,Scene 3,"Marie Klein, Mark Weber","Gimbal F, Microphone G",Locarno Lido,"(46.1654, 8.8002)",2h
+47,Schedule Plan 2,1,Scene 1,"Lena Schmidt, Jan Fischer","Camera D, Tripod E",Locarno Piazza Grande,"(46.1696, 8.7955)",3h
+47,Schedule Plan 2,2,Scene 3,"Marie Klein, Mark Weber","Gimbal F, Microphone G",Locarno Lido,"(46.1654, 8.8002)",2h
+47,Schedule Plan 2,3,Scene 2,"Jan Fischer, Marie Klein","Camera D, Gimbal F",Locarno Madonna del Sasso,"(46.1733, 8.7969)",1h
+48,Schedule Plan 1,1,Scene 1,"Nora Fischer, Max Weber, Laura Müller","Lens H, Gimbal I",Zürich Polybahn,"(47.3766, 8.5480)",2h
+48,Schedule Plan 1,2,Scene 2,"Max Weber, Clara Meyer, Laura Müller","Gimbal I, Drone J",Zürich Lindenhof,"(47.3711, 8.5418)",1h
+48,Schedule Plan 1,3,Scene 3,"Clara Meyer, Nora Fischer","Drone J, Lens K",Zürich Sechseläutenplatz,"(47.3665, 8.5455)",3h
+48,Schedule Plan 2,1,Scene 1,"Nora Fischer, Max Weber, Laura Müller","Lens H, Gimbal I",Zürich Polybahn,"(47.3766, 8.5480)",2h
+48,Schedule Plan 2,2,Scene 3,"Clara Meyer, Nora Fischer","Drone J, Lens K",Zürich Sechseläutenplatz,"(47.3665, 8.5455)",3h
+48,Schedule Plan 2,3,Scene 2,"Max Weber, Clara Meyer, Laura Müller","Gimbal I, Drone J",Zürich Lindenhof,"(47.3711, 8.5418)",1h
+49,Schedule Plan 1,1,Scene 1,"Eva Schmidt, Hans Müller","Camera L, Microphone M",Bern Marzilibahn,"(46.9458, 7.4433)",2h
+49,Schedule Plan 1,2,Scene 2,"Hans Müller, Laura Becker","Microphone M, Camera N",Bern Zytglogge,"(46.9488, 7.4474)",1h
+49,Schedule Plan 1,3,Scene 3,"Laura Becker, Tim Braun","Camera N, Drone O",Bern Bundesplatz,"(46.9466, 7.4446)",3h
+49,Schedule Plan 2,1,Scene 1,"Eva Schmidt, Hans Müller","Camera L, Microphone M",Bern Marzilibahn,"(46.9458, 7.4433)",2h
+49,Schedule Plan 2,2,Scene 3,"Laura Becker, Tim Braun","Camera N, Drone O",Bern Bundesplatz,"(46.9466, 7.4446)",3h
+49,Schedule Plan 2,3,Scene 2,"Hans Müller, Laura Becker","Microphone M, Camera N",Bern Zytglogge,"(46.9488, 7.4474)",1h
+50,Schedule Plan 1,1,Scene 1,"Anna Klein, John Fischer","Camera P, Boom Mic Q",Zürich Bahnhofstrasse,"(47.3759, 8.5392)",2h
+50,Schedule Plan 1,2,Scene 2,"John Fischer, Clara Neumann","Camera P, Microphone R",Zürich Lindenhof,"(47.3711, 8.5418)",1h
+50,Schedule Plan 1,3,Scene 3,"Clara Neumann, Karl Schulz","Microphone R, Drone S",Zürich Opernhaus,"(47.3656, 8.5463)",3h
+50,Schedule Plan 2,1,Scene 1,"Anna Klein, John Fischer","Camera P, Boom Mic Q",Zürich Bahnhofstrasse,"(47.3759, 8.5392)",2h
+50,Schedule Plan 2,2,Scene 3,"Clara Neumann, Karl Schulz","Microphone R, Drone S",Zürich Opernhaus,"(47.3656, 8.5463)",3h
+50,Schedule Plan 2,3,Scene 2,"John Fischer, Clara Neumann","Camera P, Microphone R",Zürich Lindenhof,"(47.3711, 8.5418)",1h

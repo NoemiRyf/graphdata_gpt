@@ -1,0 +1,45 @@
+{
+    "scenes": [
+      {
+        "scene": "Scene 1",
+        "location": "Zürich Zentrum",
+        "actors": ["Max Müller", "Johanna Schmidt"],
+        "equipment": ["Camera X", "Microphone A"],
+        "duration": "2h"
+       
+      },
+      {
+        "scene": "Scene 2",
+        "location": "Uetliberg",
+        "actors": ["Max Müller", "Lisa Feld"],
+        "equipment": ["Drone Y", "Camera X", "Boom Mic B"],
+        "duration": "1h"
+        
+      },
+      {
+        "scene": "Scene 3",
+        "location": "Bellevue",
+        "actors": ["Tom Braun", "Johanna Schmidt", "Lisa Feld"],
+        "equipment": ["Camera Z", "Boom Mic B"],
+        "duration": "2h"
+        
+      },
+      {
+        "scene": "Scene 4",
+        "location": "Bahnhofstrasse",
+        "actors": ["Nina Kraft", "Oscar Wilde"], 
+        "equipment": ["Camera W", "Gimbal D", "Camera Z"  ],
+        "duration": "3h"
+           
+      },
+      {
+        "scene": "Scene 5",
+        "location": "ETH Zürich",
+        "actors": ["Sara Löwe", "Felix Sonne"],   
+        "equipment": ["Camera V", "Microphone A"],
+        "duration": "2h"
+             
+      }
+    ]
+  }
+  

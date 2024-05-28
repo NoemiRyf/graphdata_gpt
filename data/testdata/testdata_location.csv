@@ -1,0 +1,381 @@
+Pair ID,Schedule Type,Order Number,Scene Number,Actors,Equipment,Location,Coordinates,Duration
+1,Schedule Plan 1,1,Scene 1,"Taylor Miller, Alex Taylor, Alex Taylor","Camera G, Microphone E, Drone H, Gimbal C, Boom Mic I",Schlieren,"(47.3962, 8.4515)",2h
+1,Schedule Plan 1,2,Scene 2,"Morgan Miller, Morgan Brown, Jordan Moore, Jamie Johnson","Microphone I, Camera C, Camera J, Microphone G, Boom Mic E",Altstetten,"(47.3914, 8.4886)",3h
+1,Schedule Plan 1,3,Scene 3,"Taylor Moore, Jamie Wilson, Alex Brown, Skyler Jones","Boom Mic J, Gimbal B",Zürich Hardbrücke,"(47.385, 8.5172)",2h
+1,Schedule Plan 1,4,Scene 4,"River Jones, Morgan Jones, Casey Moore, River Taylor","Drone D, Microphone I, Camera A",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",2h
+1,Schedule Plan 1,5,Scene 5,"Taylor Williams, Taylor Brown","Gimbal C, Camera C, Microphone F, Camera C",Wollishofen,"(47.3407, 8.531)",1h
+1,Schedule Plan 2,1,Scene 5,"Taylor Williams, Taylor Brown","Gimbal C, Camera C, Microphone F, Camera C",Wollishofen,"(47.3407, 8.531)",1h
+1,Schedule Plan 2,2,Scene 1,"Taylor Miller, Alex Taylor, Alex Taylor","Camera G, Microphone E, Drone H, Gimbal C, Boom Mic I",Schlieren,"(47.3962, 8.4515)",2h
+1,Schedule Plan 2,3,Scene 3,"Taylor Moore, Jamie Wilson, Alex Brown, Skyler Jones","Boom Mic J, Gimbal B",Zürich Hardbrücke,"(47.385, 8.5172)",2h
+1,Schedule Plan 2,4,Scene 2,"Morgan Miller, Morgan Brown, Jordan Moore, Jamie Johnson","Microphone I, Camera C, Camera J, Microphone G, Boom Mic E",Altstetten,"(47.3914, 8.4886)",3h
+1,Schedule Plan 2,5,Scene 4,"River Jones, Morgan Jones, Casey Moore, River Taylor","Drone D, Microphone I, Camera A",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",2h
+2,Schedule Plan 1,1,Scene 1,"Sam Miller, Casey Smith, Sam Smith","Camera J, Camera J, Microphone A",Schlieren,"(47.3962, 8.4515)",3h
+2,Schedule Plan 1,2,Scene 2,"Skyler Johnson, Skyler Brown, Skyler Brown, Casey Johnson","Drone H, Microphone H, Gimbal C, Camera C",Altstetten,"(47.3914, 8.4886)",3h
+2,Schedule Plan 1,3,Scene 3,"River Smith, Skyler Moore, Morgan Moore","Microphone E, Boom Mic H, Camera I, Gimbal I",Zürich Hardbrücke,"(47.385, 8.5172)",1h
+2,Schedule Plan 1,4,Scene 4,"Alex Davis, Jamie Smith, Casey Smith","Microphone C, Boom Mic B",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",3h
+2,Schedule Plan 1,5,Scene 5,"Morgan Miller, Taylor Williams","Gimbal D, Drone B, Microphone G, Drone I",Wollishofen,"(47.3407, 8.531)",2h
+2,Schedule Plan 2,1,Scene 2,"Skyler Johnson, Skyler Brown, Skyler Brown, Casey Johnson","Drone H, Microphone H, Gimbal C, Camera C",Altstetten,"(47.3914, 8.4886)",3h
+2,Schedule Plan 2,2,Scene 4,"Alex Davis, Jamie Smith, Casey Smith","Microphone C, Boom Mic B",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",3h
+2,Schedule Plan 2,3,Scene 1,"Sam Miller, Casey Smith, Sam Smith","Camera J, Camera J, Microphone A",Schlieren,"(47.3962, 8.4515)",3h
+2,Schedule Plan 2,4,Scene 5,"Morgan Miller, Taylor Williams","Gimbal D, Drone B, Microphone G, Drone I",Wollishofen,"(47.3407, 8.531)",2h
+2,Schedule Plan 2,5,Scene 3,"River Smith, Skyler Moore, Morgan Moore","Microphone E, Boom Mic H, Camera I, Gimbal I",Zürich Hardbrücke,"(47.385, 8.5172)",1h
+3,Schedule Plan 1,1,Scene 1,"Sam Williams, Taylor Smith, Riley Wilson","Microphone J, Boom Mic I",Schlieren,"(47.3962, 8.4515)",1h
+3,Schedule Plan 1,2,Scene 2,"Casey Moore, River Johnson, Alex Johnson","Drone D, Camera C, Microphone C",Altstetten,"(47.3914, 8.4886)",2h
+3,Schedule Plan 1,3,Scene 3,"Alex Miller, River Taylor","Camera G, Camera H, Boom Mic E",Zürich Hardbrücke,"(47.385, 8.5172)",3h
+3,Schedule Plan 1,4,Scene 4,"Morgan Davis, Jamie Williams","Camera C, Camera C, Camera E",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",3h
+3,Schedule Plan 1,5,Scene 5,"Skyler Davis, Alex Wilson, Taylor Williams, Riley Taylor","Drone F, Camera B, Drone B",Wollishofen,"(47.3407, 8.531)",3h
+3,Schedule Plan 2,1,Scene 4,"Morgan Davis, Jamie Williams","Camera C, Camera C, Camera E",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",3h
+3,Schedule Plan 2,2,Scene 1,"Sam Williams, Taylor Smith, Riley Wilson","Microphone J, Boom Mic I",Schlieren,"(47.3962, 8.4515)",1h
+3,Schedule Plan 2,3,Scene 2,"Casey Moore, River Johnson, Alex Johnson","Drone D, Camera C, Microphone C",Altstetten,"(47.3914, 8.4886)",2h
+3,Schedule Plan 2,4,Scene 5,"Skyler Davis, Alex Wilson, Taylor Williams, Riley Taylor","Drone F, Camera B, Drone B",Wollishofen,"(47.3407, 8.531)",3h
+3,Schedule Plan 2,5,Scene 3,"Alex Miller, River Taylor","Camera G, Camera H, Boom Mic E",Zürich Hardbrücke,"(47.385, 8.5172)",3h
+4,Schedule Plan 1,1,Scene 1,"Casey Taylor, Skyler Miller, Taylor Wilson","Camera J, Microphone E, Camera E, Gimbal D",Schlieren,"(47.3962, 8.4515)",1h
+4,Schedule Plan 1,2,Scene 2,"Casey Johnson, Alex Wilson, Sam Smith","Gimbal J, Camera C",Altstetten,"(47.3914, 8.4886)",3h
+4,Schedule Plan 1,3,Scene 3,"Morgan Wilson, Taylor Brown, Riley Jones","Gimbal E, Microphone I, Camera C",Zürich Hardbrücke,"(47.385, 8.5172)",1h
+4,Schedule Plan 1,4,Scene 4,"Alex Williams, Morgan Wilson","Camera C, Boom Mic B",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",3h
+4,Schedule Plan 1,5,Scene 5,"Sam Johnson, River Brown, Jordan Smith","Gimbal J, Camera G, Drone J, Drone G",Wollishofen,"(47.3407, 8.531)",2h
+4,Schedule Plan 2,1,Scene 5,"Sam Johnson, River Brown, Jordan Smith","Gimbal J, Camera G, Drone J, Drone G",Wollishofen,"(47.3407, 8.531)",2h
+4,Schedule Plan 2,2,Scene 2,"Casey Johnson, Alex Wilson, Sam Smith","Gimbal J, Camera C",Altstetten,"(47.3914, 8.4886)",3h
+4,Schedule Plan 2,3,Scene 4,"Alex Williams, Morgan Wilson","Camera C, Boom Mic B",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",3h
+4,Schedule Plan 2,4,Scene 3,"Morgan Wilson, Taylor Brown, Riley Jones","Gimbal E, Microphone I, Camera C",Zürich Hardbrücke,"(47.385, 8.5172)",1h
+4,Schedule Plan 2,5,Scene 1,"Casey Taylor, Skyler Miller, Taylor Wilson","Camera J, Microphone E, Camera E, Gimbal D",Schlieren,"(47.3962, 8.4515)",1h
+5,Schedule Plan 1,1,Scene 1,"Skyler Wilson, Jamie Smith, River Miller","Microphone E, Camera J, Camera E, Gimbal J",Schlieren,"(47.3962, 8.4515)",3h
+5,Schedule Plan 1,2,Scene 2,"Casey Miller, Alex Davis, Taylor Taylor, Jamie Jones","Drone D, Microphone B, Gimbal G",Altstetten,"(47.3914, 8.4886)",2h
+5,Schedule Plan 1,3,Scene 3,"Jordan Brown, Casey Miller, Skyler Moore, Casey Miller","Camera J, Gimbal G",Zürich Hardbrücke,"(47.385, 8.5172)",1h
+5,Schedule Plan 1,4,Scene 4,"River Davis, Riley Brown","Microphone I, Microphone A, Boom Mic G, Camera F",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",3h
+5,Schedule Plan 1,5,Scene 5,"Jamie Taylor, Sam Miller, Casey Davis, Riley Moore","Boom Mic E, Gimbal A",Wollishofen,"(47.3407, 8.531)",2h
+5,Schedule Plan 2,1,Scene 1,"Skyler Wilson, Jamie Smith, River Miller","Microphone E, Camera J, Camera E, Gimbal J",Schlieren,"(47.3962, 8.4515)",3h
+5,Schedule Plan 2,2,Scene 5,"Jamie Taylor, Sam Miller, Casey Davis, Riley Moore","Boom Mic E, Gimbal A",Wollishofen,"(47.3407, 8.531)",2h
+5,Schedule Plan 2,3,Scene 4,"River Davis, Riley Brown","Microphone I, Microphone A, Boom Mic G, Camera F",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",3h
+5,Schedule Plan 2,4,Scene 2,"Casey Miller, Alex Davis, Taylor Taylor, Jamie Jones","Drone D, Microphone B, Gimbal G",Altstetten,"(47.3914, 8.4886)",2h
+5,Schedule Plan 2,5,Scene 3,"Jordan Brown, Casey Miller, Skyler Moore, Casey Miller","Camera J, Gimbal G",Zürich Hardbrücke,"(47.385, 8.5172)",1h
+6,Schedule Plan 1,1,Scene 1,"Jamie Brown, River Taylor","Boom Mic C, Boom Mic G, Camera B, Camera F",Schlieren,"(47.3962, 8.4515)",3h
+6,Schedule Plan 1,2,Scene 2,"River Taylor, Casey Miller","Gimbal F, Boom Mic F, Camera H, Drone B, Drone C",Altstetten,"(47.3914, 8.4886)",1h
+6,Schedule Plan 1,3,Scene 3,"Riley Wilson, Morgan Jones, Taylor Johnson, Casey Brown","Drone I, Drone I, Drone J, Drone J",Zürich Hardbrücke,"(47.385, 8.5172)",3h
+6,Schedule Plan 1,4,Scene 4,"Alex Williams, Jamie Wilson","Drone A, Camera H, Camera D",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",2h
+6,Schedule Plan 1,5,Scene 5,"Sam Williams, Jamie Wilson, Casey Moore","Camera B, Gimbal H, Gimbal A, Boom Mic E, Drone G",Wollishofen,"(47.3407, 8.531)",1h
+6,Schedule Plan 2,1,Scene 1,"Jamie Brown, River Taylor","Boom Mic C, Boom Mic G, Camera B, Camera F",Schlieren,"(47.3962, 8.4515)",3h
+6,Schedule Plan 2,2,Scene 4,"Alex Williams, Jamie Wilson","Drone A, Camera H, Camera D",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",2h
+6,Schedule Plan 2,3,Scene 2,"River Taylor, Casey Miller","Gimbal F, Boom Mic F, Camera H, Drone B, Drone C",Altstetten,"(47.3914, 8.4886)",1h
+6,Schedule Plan 2,4,Scene 3,"Riley Wilson, Morgan Jones, Taylor Johnson, Casey Brown","Drone I, Drone I, Drone J, Drone J",Zürich Hardbrücke,"(47.385, 8.5172)",3h
+6,Schedule Plan 2,5,Scene 5,"Sam Williams, Jamie Wilson, Casey Moore","Camera B, Gimbal H, Gimbal A, Boom Mic E, Drone G",Wollishofen,"(47.3407, 8.531)",1h
+7,Schedule Plan 1,1,Scene 1,"Morgan Wilson, Skyler Taylor, Riley Miller, Riley Miller","Drone B, Camera C",Schlieren,"(47.3962, 8.4515)",3h
+7,Schedule Plan 1,2,Scene 2,"Jordan Jones, Jamie Moore, Alex Smith, Morgan Miller","Microphone I, Camera D",Altstetten,"(47.3914, 8.4886)",3h
+7,Schedule Plan 1,3,Scene 3,"Jamie Taylor, Jordan Williams","Camera D, Microphone B, Gimbal J, Drone I",Zürich Hardbrücke,"(47.385, 8.5172)",2h
+7,Schedule Plan 1,4,Scene 4,"Taylor Jones, River Miller, River Brown","Boom Mic C, Microphone A",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",2h
+7,Schedule Plan 1,5,Scene 5,"Alex Davis, Taylor Moore","Boom Mic B, Camera J",Wollishofen,"(47.3407, 8.531)",1h
+7,Schedule Plan 2,1,Scene 2,"Jordan Jones, Jamie Moore, Alex Smith, Morgan Miller","Microphone I, Camera D",Altstetten,"(47.3914, 8.4886)",3h
+7,Schedule Plan 2,2,Scene 4,"Taylor Jones, River Miller, River Brown","Boom Mic C, Microphone A",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",2h
+7,Schedule Plan 2,3,Scene 1,"Morgan Wilson, Skyler Taylor, Riley Miller, Riley Miller","Drone B, Camera C",Schlieren,"(47.3962, 8.4515)",3h
+7,Schedule Plan 2,4,Scene 3,"Jamie Taylor, Jordan Williams","Camera D, Microphone B, Gimbal J, Drone I",Zürich Hardbrücke,"(47.385, 8.5172)",2h
+7,Schedule Plan 2,5,Scene 5,"Alex Davis, Taylor Moore","Boom Mic B, Camera J",Wollishofen,"(47.3407, 8.531)",1h
+8,Schedule Plan 1,1,Scene 1,"Jamie Williams, Jordan Miller","Microphone H, Camera I, Drone F",Schlieren,"(47.3962, 8.4515)",2h
+8,Schedule Plan 1,2,Scene 2,"Alex Johnson, Morgan Taylor, Alex Johnson, Riley Miller","Microphone B, Camera B, Drone C, Gimbal B, Gimbal D",Altstetten,"(47.3914, 8.4886)",3h
+8,Schedule Plan 1,3,Scene 3,"River Johnson, Casey Jones","Camera G, Gimbal B, Camera H, Gimbal B, Boom Mic C",Zürich Hardbrücke,"(47.385, 8.5172)",2h
+8,Schedule Plan 1,4,Scene 4,"Morgan Davis, River Miller","Drone B, Drone A",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",1h
+8,Schedule Plan 1,5,Scene 5,"Sam Miller, Casey Taylor","Drone A, Gimbal C, Camera I",Wollishofen,"(47.3407, 8.531)",2h
+8,Schedule Plan 2,1,Scene 1,"Jamie Williams, Jordan Miller","Microphone H, Camera I, Drone F",Schlieren,"(47.3962, 8.4515)",2h
+8,Schedule Plan 2,2,Scene 3,"River Johnson, Casey Jones","Camera G, Gimbal B, Camera H, Gimbal B, Boom Mic C",Zürich Hardbrücke,"(47.385, 8.5172)",2h
+8,Schedule Plan 2,3,Scene 5,"Sam Miller, Casey Taylor","Drone A, Gimbal C, Camera I",Wollishofen,"(47.3407, 8.531)",2h
+8,Schedule Plan 2,4,Scene 4,"Morgan Davis, River Miller","Drone B, Drone A",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",1h
+8,Schedule Plan 2,5,Scene 2,"Alex Johnson, Morgan Taylor, Alex Johnson, Riley Miller","Microphone B, Camera B, Drone C, Gimbal B, Gimbal D",Altstetten,"(47.3914, 8.4886)",3h
+9,Schedule Plan 1,1,Scene 1,"Morgan Moore, Taylor Brown, Casey Miller, Skyler Wilson","Boom Mic F, Camera G, Drone A",Schlieren,"(47.3962, 8.4515)",1h
+9,Schedule Plan 1,2,Scene 2,"Sam Brown, Riley Davis","Drone A, Boom Mic G, Gimbal H",Altstetten,"(47.3914, 8.4886)",3h
+9,Schedule Plan 1,3,Scene 3,"Casey Wilson, Jordan Taylor","Camera H, Camera F, Camera H, Microphone G",Zürich Hardbrücke,"(47.385, 8.5172)",2h
+9,Schedule Plan 1,4,Scene 4,"River Johnson, Sam Moore","Microphone A, Microphone E, Boom Mic G",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",2h
+9,Schedule Plan 1,5,Scene 5,"Sam Johnson, River Jones, Jamie Moore","Gimbal G, Microphone J, Gimbal D, Gimbal C",Wollishofen,"(47.3407, 8.531)",2h
+9,Schedule Plan 2,1,Scene 3,"Casey Wilson, Jordan Taylor","Camera H, Camera F, Camera H, Microphone G",Zürich Hardbrücke,"(47.385, 8.5172)",2h
+9,Schedule Plan 2,2,Scene 2,"Sam Brown, Riley Davis","Drone A, Boom Mic G, Gimbal H",Altstetten,"(47.3914, 8.4886)",3h
+9,Schedule Plan 2,3,Scene 4,"River Johnson, Sam Moore","Microphone A, Microphone E, Boom Mic G",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",2h
+9,Schedule Plan 2,4,Scene 1,"Morgan Moore, Taylor Brown, Casey Miller, Skyler Wilson","Boom Mic F, Camera G, Drone A",Schlieren,"(47.3962, 8.4515)",1h
+9,Schedule Plan 2,5,Scene 5,"Sam Johnson, River Jones, Jamie Moore","Gimbal G, Microphone J, Gimbal D, Gimbal C",Wollishofen,"(47.3407, 8.531)",2h
+10,Schedule Plan 1,1,Scene 1,"Jamie Jones, River Jones","Camera A, Gimbal D, Boom Mic E",Schlieren,"(47.3962, 8.4515)",2h
+10,Schedule Plan 1,2,Scene 2,"Alex Taylor, Jamie Taylor, Casey Williams, Skyler Johnson","Gimbal D, Boom Mic B, Drone D, Camera B",Altstetten,"(47.3914, 8.4886)",1h
+10,Schedule Plan 1,3,Scene 3,"Riley Johnson, Sam Brown, Alex Williams, Skyler Miller","Boom Mic E, Drone D",Zürich Hardbrücke,"(47.385, 8.5172)",2h
+10,Schedule Plan 1,4,Scene 4,"Jamie Smith, Morgan Brown","Camera E, Gimbal F, Drone C, Drone A, Drone F",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",3h
+10,Schedule Plan 1,5,Scene 5,"Sam Taylor, River Brown","Drone J, Boom Mic A, Camera D",Wollishofen,"(47.3407, 8.531)",3h
+10,Schedule Plan 2,1,Scene 1,"Jamie Jones, River Jones","Camera A, Gimbal D, Boom Mic E",Schlieren,"(47.3962, 8.4515)",2h
+10,Schedule Plan 2,2,Scene 5,"Sam Taylor, River Brown","Drone J, Boom Mic A, Camera D",Wollishofen,"(47.3407, 8.531)",3h
+10,Schedule Plan 2,3,Scene 2,"Alex Taylor, Jamie Taylor, Casey Williams, Skyler Johnson","Gimbal D, Boom Mic B, Drone D, Camera B",Altstetten,"(47.3914, 8.4886)",1h
+10,Schedule Plan 2,4,Scene 4,"Jamie Smith, Morgan Brown","Camera E, Gimbal F, Drone C, Drone A, Drone F",Zürich Bahnhofstrasse,"(47.3733, 8.5377)",3h
+10,Schedule Plan 2,5,Scene 3,"Riley Johnson, Sam Brown, Alex Williams, Skyler Miller","Boom Mic E, Drone D",Zürich Hardbrücke,"(47.385, 8.5172)",2h
+1,Schedule Plan 1,1,Scene 1,"Alex Brown, River Miller, Skyler Wilson, Casey Wilson","Microphone I, Gimbal A, Drone D, Camera D, Drone E",Oerlikon,"(47.4105, 8.5445)",1h
+1,Schedule Plan 1,2,Scene 2,"Alex Johnson, River Jones, Alex Johnson","Microphone E, Boom Mic E, Camera C",Seebach,"(47.4223, 8.5414)",2h
+1,Schedule Plan 1,3,Scene 3,"Jordan Smith, Morgan Jones, Morgan Johnson, Alex Jones","Gimbal H, Boom Mic B, Boom Mic E, Drone G, Camera I",Affoltern,"(47.4184, 8.5246)",1h
+1,Schedule Plan 1,4,Scene 4,"Sam Davis, Jamie Johnson","Gimbal I, Boom Mic I, Microphone H, Drone B, Camera I",Wipkingen,"(47.3932, 8.5297)",3h
+1,Schedule Plan 1,5,Scene 5,"Morgan Brown, Riley Brown, Sam Williams","Drone J, Drone E, Gimbal C, Camera D",Schwamendingen,"(47.3972, 8.5567)",1h
+1,Schedule Plan 2,1,Scene 2,"Alex Johnson, River Jones, Alex Johnson","Microphone E, Boom Mic E, Camera C",Seebach,"(47.4223, 8.5414)",2h
+1,Schedule Plan 2,2,Scene 1,"Alex Brown, River Miller, Skyler Wilson, Casey Wilson","Microphone I, Gimbal A, Drone D, Camera D, Drone E",Oerlikon,"(47.4105, 8.5445)",1h
+1,Schedule Plan 2,3,Scene 4,"Sam Davis, Jamie Johnson","Gimbal I, Boom Mic I, Microphone H, Drone B, Camera I",Wipkingen,"(47.3932, 8.5297)",3h
+1,Schedule Plan 2,4,Scene 5,"Morgan Brown, Riley Brown, Sam Williams","Drone J, Drone E, Gimbal C, Camera D",Schwamendingen,"(47.3972, 8.5567)",1h
+1,Schedule Plan 2,5,Scene 3,"Jordan Smith, Morgan Jones, Morgan Johnson, Alex Jones","Gimbal H, Boom Mic B, Boom Mic E, Drone G, Camera I",Affoltern,"(47.4184, 8.5246)",1h
+2,Schedule Plan 1,1,Scene 1,"Casey Johnson, Riley Brown, Jordan Davis, Morgan Wilson","Boom Mic B, Drone I, Boom Mic E",Oerlikon,"(47.4105, 8.5445)",1h
+2,Schedule Plan 1,2,Scene 2,"Alex Miller, Jordan Davis","Microphone D, Boom Mic I, Microphone A, Microphone H",Seebach,"(47.4223, 8.5414)",3h
+2,Schedule Plan 1,3,Scene 3,"Skyler Brown, Sam Wilson, Alex Moore, Sam Jones","Microphone E, Camera D, Drone I, Microphone A",Affoltern,"(47.4184, 8.5246)",2h
+2,Schedule Plan 1,4,Scene 4,"Casey Brown, Alex Smith, Jordan Miller, Alex Brown","Gimbal B, Gimbal E, Drone G, Gimbal C, Gimbal J",Wipkingen,"(47.3932, 8.5297)",1h
+2,Schedule Plan 1,5,Scene 5,"River Smith, Riley Johnson, Morgan Brown, River Brown","Gimbal I, Gimbal J, Microphone H",Schwamendingen,"(47.3972, 8.5567)",2h
+2,Schedule Plan 2,1,Scene 1,"Casey Johnson, Riley Brown, Jordan Davis, Morgan Wilson","Boom Mic B, Drone I, Boom Mic E",Oerlikon,"(47.4105, 8.5445)",1h
+2,Schedule Plan 2,2,Scene 3,"Skyler Brown, Sam Wilson, Alex Moore, Sam Jones","Microphone E, Camera D, Drone I, Microphone A",Affoltern,"(47.4184, 8.5246)",2h
+2,Schedule Plan 2,3,Scene 5,"River Smith, Riley Johnson, Morgan Brown, River Brown","Gimbal I, Gimbal J, Microphone H",Schwamendingen,"(47.3972, 8.5567)",2h
+2,Schedule Plan 2,4,Scene 2,"Alex Miller, Jordan Davis","Microphone D, Boom Mic I, Microphone A, Microphone H",Seebach,"(47.4223, 8.5414)",3h
+2,Schedule Plan 2,5,Scene 4,"Casey Brown, Alex Smith, Jordan Miller, Alex Brown","Gimbal B, Gimbal E, Drone G, Gimbal C, Gimbal J",Wipkingen,"(47.3932, 8.5297)",1h
+3,Schedule Plan 1,1,Scene 1,"Jamie Brown, River Brown, Jordan Moore, Skyler Johnson","Drone B, Boom Mic B, Drone I, Camera G, Boom Mic A",Oerlikon,"(47.4105, 8.5445)",2h
+3,Schedule Plan 1,2,Scene 2,"Sam Smith, Riley Taylor","Drone G, Gimbal F, Drone G, Camera B",Seebach,"(47.4223, 8.5414)",2h
+3,Schedule Plan 1,3,Scene 3,"Jordan Taylor, Casey Wilson, Casey Miller","Boom Mic D, Boom Mic D",Affoltern,"(47.4184, 8.5246)",1h
+3,Schedule Plan 1,4,Scene 4,"Skyler Davis, Sam Smith, Casey Wilson","Gimbal A, Drone H, Boom Mic A, Camera G, Drone F",Wipkingen,"(47.3932, 8.5297)",3h
+3,Schedule Plan 1,5,Scene 5,"Jamie Smith, Riley Smith, Alex Miller","Drone J, Camera J, Microphone G, Camera A",Schwamendingen,"(47.3972, 8.5567)",3h
+3,Schedule Plan 2,1,Scene 2,"Sam Smith, Riley Taylor","Drone G, Gimbal F, Drone G, Camera B",Seebach,"(47.4223, 8.5414)",2h
+3,Schedule Plan 2,2,Scene 5,"Jamie Smith, Riley Smith, Alex Miller","Drone J, Camera J, Microphone G, Camera A",Schwamendingen,"(47.3972, 8.5567)",3h
+3,Schedule Plan 2,3,Scene 3,"Jordan Taylor, Casey Wilson, Casey Miller","Boom Mic D, Boom Mic D",Affoltern,"(47.4184, 8.5246)",1h
+3,Schedule Plan 2,4,Scene 4,"Skyler Davis, Sam Smith, Casey Wilson","Gimbal A, Drone H, Boom Mic A, Camera G, Drone F",Wipkingen,"(47.3932, 8.5297)",3h
+3,Schedule Plan 2,5,Scene 1,"Jamie Brown, River Brown, Jordan Moore, Skyler Johnson","Drone B, Boom Mic B, Drone I, Camera G, Boom Mic A",Oerlikon,"(47.4105, 8.5445)",2h
+4,Schedule Plan 1,1,Scene 1,"Alex Davis, Jamie Williams, Casey Williams","Microphone C, Gimbal A, Microphone H",Oerlikon,"(47.4105, 8.5445)",1h
+4,Schedule Plan 1,2,Scene 2,"Alex Moore, River Moore, Jamie Smith","Drone D, Drone D, Gimbal I",Seebach,"(47.4223, 8.5414)",3h
+4,Schedule Plan 1,3,Scene 3,"Skyler Jones, River Jones, Jordan Williams, Casey Brown","Gimbal D, Boom Mic F, Boom Mic H, Gimbal H",Affoltern,"(47.4184, 8.5246)",3h
+4,Schedule Plan 1,4,Scene 4,"River Moore, Jamie Davis, Alex Davis","Microphone J, Microphone E, Microphone A, Drone C, Drone B",Wipkingen,"(47.3932, 8.5297)",2h
+4,Schedule Plan 1,5,Scene 5,"Jamie Moore, Jamie Wilson, Casey Taylor","Microphone E, Gimbal I",Schwamendingen,"(47.3972, 8.5567)",3h
+4,Schedule Plan 2,1,Scene 1,"Alex Davis, Jamie Williams, Casey Williams","Microphone C, Gimbal A, Microphone H",Oerlikon,"(47.4105, 8.5445)",1h
+4,Schedule Plan 2,2,Scene 2,"Alex Moore, River Moore, Jamie Smith","Drone D, Drone D, Gimbal I",Seebach,"(47.4223, 8.5414)",3h
+4,Schedule Plan 2,3,Scene 5,"Jamie Moore, Jamie Wilson, Casey Taylor","Microphone E, Gimbal I",Schwamendingen,"(47.3972, 8.5567)",3h
+4,Schedule Plan 2,4,Scene 3,"Skyler Jones, River Jones, Jordan Williams, Casey Brown","Gimbal D, Boom Mic F, Boom Mic H, Gimbal H",Affoltern,"(47.4184, 8.5246)",3h
+4,Schedule Plan 2,5,Scene 4,"River Moore, Jamie Davis, Alex Davis","Microphone J, Microphone E, Microphone A, Drone C, Drone B",Wipkingen,"(47.3932, 8.5297)",2h
+5,Schedule Plan 1,1,Scene 1,"Riley Wilson, Taylor Taylor, River Jones","Gimbal G, Gimbal C, Drone C, Microphone F",Oerlikon,"(47.4105, 8.5445)",1h
+5,Schedule Plan 1,2,Scene 2,"Jordan Brown, Morgan Miller, Jordan Miller","Microphone C, Camera D",Seebach,"(47.4223, 8.5414)",1h
+5,Schedule Plan 1,3,Scene 3,"Taylor Davis, Jordan Wilson, Jamie Wilson","Gimbal H, Gimbal J, Boom Mic D, Camera G",Affoltern,"(47.4184, 8.5246)",2h
+5,Schedule Plan 1,4,Scene 4,"Taylor Smith, Casey Taylor, Morgan Smith, Alex Williams","Boom Mic C, Microphone A",Wipkingen,"(47.3932, 8.5297)",3h
+5,Schedule Plan 1,5,Scene 5,"Sam Johnson, Jamie Williams","Microphone B, Drone F, Drone A",Schwamendingen,"(47.3972, 8.5567)",1h
+5,Schedule Plan 2,1,Scene 2,"Jordan Brown, Morgan Miller, Jordan Miller","Microphone C, Camera D",Seebach,"(47.4223, 8.5414)",1h
+5,Schedule Plan 2,2,Scene 5,"Sam Johnson, Jamie Williams","Microphone B, Drone F, Drone A",Schwamendingen,"(47.3972, 8.5567)",1h
+5,Schedule Plan 2,3,Scene 3,"Taylor Davis, Jordan Wilson, Jamie Wilson","Gimbal H, Gimbal J, Boom Mic D, Camera G",Affoltern,"(47.4184, 8.5246)",2h
+5,Schedule Plan 2,4,Scene 4,"Taylor Smith, Casey Taylor, Morgan Smith, Alex Williams","Boom Mic C, Microphone A",Wipkingen,"(47.3932, 8.5297)",3h
+5,Schedule Plan 2,5,Scene 1,"Riley Wilson, Taylor Taylor, River Jones","Gimbal G, Gimbal C, Drone C, Microphone F",Oerlikon,"(47.4105, 8.5445)",1h
+6,Schedule Plan 1,1,Scene 1,"Taylor Moore, River Smith, Sam Brown","Gimbal C, Boom Mic D, Drone H, Gimbal I, Drone F",Oerlikon,"(47.4105, 8.5445)",2h
+6,Schedule Plan 1,2,Scene 2,"River Davis, Skyler Jones, Casey Johnson","Drone H, Gimbal F, Drone F",Seebach,"(47.4223, 8.5414)",3h
+6,Schedule Plan 1,3,Scene 3,"Jamie Wilson, Taylor Miller","Camera I, Microphone C, Drone B",Affoltern,"(47.4184, 8.5246)",1h
+6,Schedule Plan 1,4,Scene 4,"Alex Taylor, River Smith","Drone E, Drone E, Camera B, Drone C",Wipkingen,"(47.3932, 8.5297)",1h
+6,Schedule Plan 1,5,Scene 5,"Casey Williams, Sam Moore","Boom Mic C, Gimbal G, Boom Mic G, Drone B",Schwamendingen,"(47.3972, 8.5567)",1h
+6,Schedule Plan 2,1,Scene 4,"Alex Taylor, River Smith","Drone E, Drone E, Camera B, Drone C",Wipkingen,"(47.3932, 8.5297)",1h
+6,Schedule Plan 2,2,Scene 3,"Jamie Wilson, Taylor Miller","Camera I, Microphone C, Drone B",Affoltern,"(47.4184, 8.5246)",1h
+6,Schedule Plan 2,3,Scene 1,"Taylor Moore, River Smith, Sam Brown","Gimbal C, Boom Mic D, Drone H, Gimbal I, Drone F",Oerlikon,"(47.4105, 8.5445)",2h
+6,Schedule Plan 2,4,Scene 2,"River Davis, Skyler Jones, Casey Johnson","Drone H, Gimbal F, Drone F",Seebach,"(47.4223, 8.5414)",3h
+6,Schedule Plan 2,5,Scene 5,"Casey Williams, Sam Moore","Boom Mic C, Gimbal G, Boom Mic G, Drone B",Schwamendingen,"(47.3972, 8.5567)",1h
+7,Schedule Plan 1,1,Scene 1,"Sam Miller, Jordan Wilson, Riley Wilson, Alex Miller","Camera D, Microphone B, Gimbal C",Oerlikon,"(47.4105, 8.5445)",3h
+7,Schedule Plan 1,2,Scene 2,"Jamie Brown, Skyler Brown","Drone D, Camera J, Boom Mic C, Microphone I, Boom Mic J",Seebach,"(47.4223, 8.5414)",3h
+7,Schedule Plan 1,3,Scene 3,"Morgan Brown, Taylor Wilson","Microphone E, Microphone F",Affoltern,"(47.4184, 8.5246)",1h
+7,Schedule Plan 1,4,Scene 4,"Alex Williams, Casey Johnson","Camera H, Microphone H",Wipkingen,"(47.3932, 8.5297)",3h
+7,Schedule Plan 1,5,Scene 5,"Jordan Davis, River Wilson, Riley Johnson","Camera B, Drone C, Drone H",Schwamendingen,"(47.3972, 8.5567)",3h
+7,Schedule Plan 2,1,Scene 5,"Jordan Davis, River Wilson, Riley Johnson","Camera B, Drone C, Drone H",Schwamendingen,"(47.3972, 8.5567)",3h
+7,Schedule Plan 2,2,Scene 2,"Jamie Brown, Skyler Brown","Drone D, Camera J, Boom Mic C, Microphone I, Boom Mic J",Seebach,"(47.4223, 8.5414)",3h
+7,Schedule Plan 2,3,Scene 3,"Morgan Brown, Taylor Wilson","Microphone E, Microphone F",Affoltern,"(47.4184, 8.5246)",1h
+7,Schedule Plan 2,4,Scene 4,"Alex Williams, Casey Johnson","Camera H, Microphone H",Wipkingen,"(47.3932, 8.5297)",3h
+7,Schedule Plan 2,5,Scene 1,"Sam Miller, Jordan Wilson, Riley Wilson, Alex Miller","Camera D, Microphone B, Gimbal C",Oerlikon,"(47.4105, 8.5445)",3h
+8,Schedule Plan 1,1,Scene 1,"Riley Brown, Alex Moore","Drone F, Microphone H, Drone A, Boom Mic G, Microphone H",Oerlikon,"(47.4105, 8.5445)",2h
+8,Schedule Plan 1,2,Scene 2,"Morgan Davis, Casey Jones","Camera C, Microphone E",Seebach,"(47.4223, 8.5414)",3h
+8,Schedule Plan 1,3,Scene 3,"Casey Wilson, Skyler Brown, Taylor Jones, River Johnson","Gimbal C, Gimbal A, Drone B",Affoltern,"(47.4184, 8.5246)",2h
+8,Schedule Plan 1,4,Scene 4,"Jamie Davis, Casey Smith","Drone A, Gimbal F, Gimbal E, Boom Mic H, Gimbal D",Wipkingen,"(47.3932, 8.5297)",1h
+8,Schedule Plan 1,5,Scene 5,"Alex Miller, Skyler Taylor","Microphone F, Gimbal D, Gimbal G",Schwamendingen,"(47.3972, 8.5567)",3h
+8,Schedule Plan 2,1,Scene 2,"Morgan Davis, Casey Jones","Camera C, Microphone E",Seebach,"(47.4223, 8.5414)",3h
+8,Schedule Plan 2,2,Scene 4,"Jamie Davis, Casey Smith","Drone A, Gimbal F, Gimbal E, Boom Mic H, Gimbal D",Wipkingen,"(47.3932, 8.5297)",1h
+8,Schedule Plan 2,3,Scene 1,"Riley Brown, Alex Moore","Drone F, Microphone H, Drone A, Boom Mic G, Microphone H",Oerlikon,"(47.4105, 8.5445)",2h
+8,Schedule Plan 2,4,Scene 5,"Alex Miller, Skyler Taylor","Microphone F, Gimbal D, Gimbal G",Schwamendingen,"(47.3972, 8.5567)",3h
+8,Schedule Plan 2,5,Scene 3,"Casey Wilson, Skyler Brown, Taylor Jones, River Johnson","Gimbal C, Gimbal A, Drone B",Affoltern,"(47.4184, 8.5246)",2h
+9,Schedule Plan 1,1,Scene 1,"Alex Wilson, Riley Williams, Jordan Smith, Jamie Jones","Gimbal B, Drone D, Microphone I, Camera G, Boom Mic F",Oerlikon,"(47.4105, 8.5445)",1h
+9,Schedule Plan 1,2,Scene 2,"Morgan Miller, Riley Taylor, Alex Taylor","Boom Mic I, Boom Mic H",Seebach,"(47.4223, 8.5414)",1h
+9,Schedule Plan 1,3,Scene 3,"Jordan Brown, Skyler Smith","Microphone J, Microphone B",Affoltern,"(47.4184, 8.5246)",1h
+9,Schedule Plan 1,4,Scene 4,"Riley Jones, Jordan Brown, Taylor Smith, Skyler Jones","Gimbal I, Boom Mic F, Camera C, Boom Mic F",Wipkingen,"(47.3932, 8.5297)",1h
+9,Schedule Plan 1,5,Scene 5,"Taylor Davis, Skyler Wilson","Boom Mic H, Microphone C",Schwamendingen,"(47.3972, 8.5567)",2h
+9,Schedule Plan 2,1,Scene 4,"Riley Jones, Jordan Brown, Taylor Smith, Skyler Jones","Gimbal I, Boom Mic F, Camera C, Boom Mic F",Wipkingen,"(47.3932, 8.5297)",1h
+9,Schedule Plan 2,2,Scene 1,"Alex Wilson, Riley Williams, Jordan Smith, Jamie Jones","Gimbal B, Drone D, Microphone I, Camera G, Boom Mic F",Oerlikon,"(47.4105, 8.5445)",1h
+9,Schedule Plan 2,3,Scene 5,"Taylor Davis, Skyler Wilson","Boom Mic H, Microphone C",Schwamendingen,"(47.3972, 8.5567)",2h
+9,Schedule Plan 2,4,Scene 3,"Jordan Brown, Skyler Smith","Microphone J, Microphone B",Affoltern,"(47.4184, 8.5246)",1h
+9,Schedule Plan 2,5,Scene 2,"Morgan Miller, Riley Taylor, Alex Taylor","Boom Mic I, Boom Mic H",Seebach,"(47.4223, 8.5414)",1h
+10,Schedule Plan 1,1,Scene 1,"Alex Moore, Sam Williams, Casey Johnson","Drone J, Gimbal G",Oerlikon,"(47.4105, 8.5445)",3h
+10,Schedule Plan 1,2,Scene 2,"Jordan Taylor, Skyler Williams, Sam Miller, Jamie Davis","Boom Mic H, Microphone B, Boom Mic B, Drone H",Seebach,"(47.4223, 8.5414)",2h
+10,Schedule Plan 1,3,Scene 3,"Jamie Taylor, Jamie Wilson, Morgan Moore","Microphone C, Gimbal A, Microphone A",Affoltern,"(47.4184, 8.5246)",1h
+10,Schedule Plan 1,4,Scene 4,"River Brown, Jordan Smith","Boom Mic B, Microphone J, Microphone H, Gimbal D",Wipkingen,"(47.3932, 8.5297)",3h
+10,Schedule Plan 1,5,Scene 5,"Jordan Smith, River Wilson","Microphone B, Camera H, Drone I",Schwamendingen,"(47.3972, 8.5567)",1h
+10,Schedule Plan 2,1,Scene 1,"Alex Moore, Sam Williams, Casey Johnson","Drone J, Gimbal G",Oerlikon,"(47.4105, 8.5445)",3h
+10,Schedule Plan 2,2,Scene 4,"River Brown, Jordan Smith","Boom Mic B, Microphone J, Microphone H, Gimbal D",Wipkingen,"(47.3932, 8.5297)",3h
+10,Schedule Plan 2,3,Scene 2,"Jordan Taylor, Skyler Williams, Sam Miller, Jamie Davis","Boom Mic H, Microphone B, Boom Mic B, Drone H",Seebach,"(47.4223, 8.5414)",2h
+10,Schedule Plan 2,4,Scene 3,"Jamie Taylor, Jamie Wilson, Morgan Moore","Microphone C, Gimbal A, Microphone A",Affoltern,"(47.4184, 8.5246)",1h
+10,Schedule Plan 2,5,Scene 5,"Jordan Smith, River Wilson","Microphone B, Camera H, Drone I",Schwamendingen,"(47.3972, 8.5567)",1h
+1,Schedule Plan 1,1,Scene 1,"Taylor Miller, Alex Taylor","Camera G, Microphone E, Drone H",Zürich,"(47.3769, 8.5417)",1h
+1,Schedule Plan 1,2,Scene 2,"Morgan Brown, Jamie Johnson","Microphone I, Camera C, Camera J",Zürich Enge,"(47.3657, 8.5333)",2h
+1,Schedule Plan 1,3,Scene 3,"Taylor Moore, Skyler Jones","Boom Mic J, Gimbal B",Zürich Hardbrücke,"(47.385, 8.5172)",1h
+1,Schedule Plan 2,1,Scene 1,"Taylor Miller, Alex Taylor","Camera G, Microphone E, Drone H",Zürich,"(47.3769, 8.5417)",1h
+1,Schedule Plan 2,2,Scene 2,"Morgan Brown, Jamie Johnson","Microphone I, Camera C, Camera J",Schlieren,"(47.3962, 8.4515)",2h
+1,Schedule Plan 2,3,Scene 3,"Taylor Moore, Skyler Jones","Boom Mic J, Gimbal B",Winterthur,"(47.4988, 8.7237)",2h
+2,Schedule Plan 1,1,Scene 1,"River Taylor, Casey Moore","Drone D, Microphone I",Oerlikon,"(47.4105, 8.5445)",2h
+2,Schedule Plan 1,2,Scene 2,"Jamie Wilson, Alex Brown","Gimbal C, Camera C",Glattpark,"(47.4246, 8.5598)",1h
+2,Schedule Plan 1,3,Scene 3,"Morgan Davis, Jamie Williams","Camera A, Boom Mic I",Wallisellen,"(47.4142, 8.595)",2h
+2,Schedule Plan 2,1,Scene 1,"River Taylor, Casey Moore","Drone D, Microphone I",Oerlikon,"(47.4105, 8.5445)",2h
+2,Schedule Plan 2,2,Scene 2,"Jamie Wilson, Alex Brown","Gimbal C, Camera C",Wetzikon,"(47.3261, 8.7975)",3h
+2,Schedule Plan 2,3,Scene 3,"Morgan Davis, Jamie Williams","Camera A, Boom Mic I",Winterthur,"(47.4988, 8.7237)",2h
+3,Schedule Plan 1,1,Scene 1,"Sam Miller, Casey Smith","Camera J, Microphone A",Schlieren,"(47.3962, 8.4515)",1h
+3,Schedule Plan 1,2,Scene 2,"Skyler Johnson, Casey Johnson","Drone H, Microphone H",Altstetten,"(47.3914, 8.4886)",2h
+3,Schedule Plan 1,3,Scene 3,"River Smith, Skyler Moore","Microphone E, Boom Mic H",Zürich Hardbrücke,"(47.385, 8.5172)",1h
+3,Schedule Plan 2,1,Scene 1,"Sam Miller, Casey Smith","Camera J, Microphone A",Schlieren,"(47.3962, 8.4515)",1h
+3,Schedule Plan 2,2,Scene 2,"Skyler Johnson, Casey Johnson","Drone H, Microphone H",Winterthur,"(47.4988, 8.7237)",2h
+3,Schedule Plan 2,3,Scene 3,"River Smith, Skyler Moore","Microphone E, Boom Mic H",Zürich Flughafen,"(47.4504, 8.561)",3h
+4,Schedule Plan 1,1,Scene 1,"Alex Brown, River Miller","Microphone I, Gimbal A",Oerlikon,"(47.4105, 8.5445)",1h
+4,Schedule Plan 1,2,Scene 2,"Alex Johnson, Alex Johnson","Microphone E, Camera C",Seebach,"(47.4223, 8.5414)",1h
+4,Schedule Plan 1,3,Scene 3,"Jordan Smith, Morgan Jones","Gimbal H, Boom Mic B",Affoltern,"(47.4184, 8.5246)",2h
+4,Schedule Plan 2,1,Scene 1,"Alex Brown, River Miller","Microphone I, Gimbal A",Oerlikon,"(47.4105, 8.5445)",1h
+4,Schedule Plan 2,2,Scene 2,"Alex Johnson, Alex Johnson","Microphone E, Camera C",Winterthur,"(47.4988, 8.7237)",2h
+4,Schedule Plan 2,3,Scene 3,"Jordan Smith, Morgan Jones","Gimbal H, Boom Mic B",Zürich Flughafen,"(47.4504, 8.561)",3h
+5,Schedule Plan 1,1,Scene 1,"Casey Johnson, Jordan Davis","Boom Mic B, Drone I",Oerlikon,"(47.4105, 8.5445)",1h
+5,Schedule Plan 1,2,Scene 2,"Alex Miller, Jordan Davis","Microphone D, Boom Mic I",Seebach,"(47.4223, 8.5414)",2h
+5,Schedule Plan 1,3,Scene 3,"Skyler Brown, Sam Wilson","Microphone E, Camera D",Affoltern,"(47.4184, 8.5246)",2h
+5,Schedule Plan 2,1,Scene 1,"Casey Johnson, Jordan Davis","Boom Mic B, Drone I",Oerlikon,"(47.4105, 8.5445)",1h
+5,Schedule Plan 2,2,Scene 2,"Alex Miller, Jordan Davis","Microphone D, Boom Mic I",Wetzikon,"(47.3261, 8.7975)",3h
+5,Schedule Plan 2,3,Scene 3,"Skyler Brown, Sam Wilson","Microphone E, Camera D",Winterthur,"(47.4988, 8.7237)",2h
+6,Schedule Plan 1,1,Scene 1,"Jamie Brown, Jordan Moore","Drone B, Boom Mic B",Oerlikon,"(47.4105, 8.5445)",1h
+6,Schedule Plan 1,2,Scene 2,"Sam Smith, Riley Taylor","Drone G, Gimbal F",Seebach,"(47.4223, 8.5414)",2h
+6,Schedule Plan 1,3,Scene 3,"Jordan Taylor, Casey Wilson","Boom Mic D, Camera A",Affoltern,"(47.4184, 8.5246)",1h
+6,Schedule Plan 2,1,Scene 1,"Jamie Brown, Jordan Moore","Drone B, Boom Mic B",Oerlikon,"(47.4105, 8.5445)",1h
+6,Schedule Plan 2,2,Scene 2,"Sam Smith, Riley Taylor","Drone G, Gimbal F",Winterthur,"(47.4988, 8.7237)",2h
+6,Schedule Plan 2,3,Scene 3,"Jordan Taylor, Casey Wilson","Boom Mic D, Camera A",Zürich Flughafen,"(47.4504, 8.561)",3h
+7,Schedule Plan 1,1,Scene 1,"Alex Davis, Jamie Williams","Microphone C, Gimbal A",Oerlikon,"(47.4105, 8.5445)",1h
+7,Schedule Plan 1,2,Scene 2,"Alex Moore, Jamie Smith","Drone D, Gimbal I",Seebach,"(47.4223, 8.5414)",2h
+7,Schedule Plan 1,3,Scene 3,"Skyler Jones, River Jones","Gimbal D, Boom Mic F",Affoltern,"(47.4184, 8.5246)",1h
+7,Schedule Plan 2,1,Scene 1,"Alex Davis, Jamie Williams","Microphone C, Gimbal A",Oerlikon,"(47.4105, 8.5445)",1h
+7,Schedule Plan 2,2,Scene 2,"Alex Moore, Jamie Smith","Drone D, Gimbal I",Winterthur,"(47.4988, 8.7237)",2h
+7,Schedule Plan 2,3,Scene 3,"Skyler Jones, River Jones","Gimbal D, Boom Mic F",Zürich Flughafen,"(47.4504, 8.561)",3h
+8,Schedule Plan 1,1,Scene 1,"Riley Wilson, Taylor Taylor","Gimbal G, Microphone F",Oerlikon,"(47.4105, 8.5445)",1h
+8,Schedule Plan 1,2,Scene 2,"Jordan Brown, Jordan Miller","Microphone C, Camera D",Seebach,"(47.4223, 8.5414)",2h
+8,Schedule Plan 1,3,Scene 3,"Taylor Davis, Jamie Wilson","Gimbal H, Boom Mic D",Affoltern,"(47.4184, 8.5246)",1h
+8,Schedule Plan 2,1,Scene 1,"Riley Wilson, Taylor Taylor","Gimbal G, Microphone F",Oerlikon,"(47.4105, 8.5445)",1h
+8,Schedule Plan 2,2,Scene 2,"Jordan Brown, Jordan Miller","Microphone C, Camera D",Winterthur,"(47.4988, 8.7237)",2h
+8,Schedule Plan 2,3,Scene 3,"Taylor Davis, Jamie Wilson","Gimbal H, Boom Mic D",Zürich Flughafen,"(47.4504, 8.561)",3h
+9,Schedule Plan 1,1,Scene 1,"Taylor Moore, River Smith","Gimbal C, Boom Mic D",Oerlikon,"(47.4105, 8.5445)",1h
+9,Schedule Plan 1,2,Scene 2,"River Davis, Casey Johnson","Drone H, Gimbal F",Seebach,"(47.4223, 8.5414)",2h
+9,Schedule Plan 1,3,Scene 3,"Jamie Wilson, Taylor Miller","Camera I, Microphone C",Affoltern,"(47.4184, 8.5246)",1h
+9,Schedule Plan 2,1,Scene 1,"Taylor Moore, River Smith","Gimbal C, Boom Mic D",Oerlikon,"(47.4105, 8.5445)",1h
+9,Schedule Plan 2,2,Scene 2,"River Davis, Casey Johnson","Drone H, Gimbal F",Winterthur,"(47.4988, 8.7237)",2h
+9,Schedule Plan 2,3,Scene 3,"Jamie Wilson, Taylor Miller","Camera I, Microphone C",Zürich Flughafen,"(47.4504, 8.561)",3h
+10,Schedule Plan 1,1,Scene 1,"Sam Miller, Alex Miller","Camera D, Microphone B",Oerlikon,"(47.4105, 8.5445)",1h
+10,Schedule Plan 1,2,Scene 2,"Jamie Brown, Skyler Brown","Drone D, Boom Mic C",Seebach,"(47.4223, 8.5414)",2h
+10,Schedule Plan 1,3,Scene 3,"Morgan Brown, Taylor Wilson","Microphone E, Microphone F",Affoltern,"(47.4184, 8.5246)",1h
+10,Schedule Plan 2,1,Scene 1,"Sam Miller, Alex Miller","Camera D, Microphone B",Oerlikon,"(47.4105, 8.5445)",1h
+10,Schedule Plan 2,2,Scene 2,"Jamie Brown, Skyler Brown","Drone D, Boom Mic C",Winterthur,"(47.4988, 8.7237)",2h
+10,Schedule Plan 2,3,Scene 3,"Morgan Brown, Taylor Wilson","Microphone E, Microphone F",Zürich Flughafen,"(47.4504, 8.561)",3h
+11,Schedule Plan 1,1,Scene 1,"Riley Brown, Alex Moore","Drone F, Microphone H",Oerlikon,"(47.4105, 8.5445)",1h
+11,Schedule Plan 1,2,Scene 2,"Morgan Davis, Casey Jones","Camera C, Microphone E",Seebach,"(47.4223, 8.5414)",2h
+11,Schedule Plan 1,3,Scene 3,"Casey Wilson, Skyler Brown","Gimbal C, Drone B",Affoltern,"(47.4184, 8.5246)",1h
+11,Schedule Plan 2,1,Scene 1,"Riley Brown, Alex Moore","Drone F, Microphone H",Oerlikon,"(47.4105, 8.5445)",1h
+11,Schedule Plan 2,2,Scene 2,"Morgan Davis, Casey Jones","Camera C, Microphone E",Winterthur,"(47.4988, 8.7237)",2h
+11,Schedule Plan 2,3,Scene 3,"Casey Wilson, Skyler Brown","Gimbal C, Drone B",Zürich Flughafen,"(47.4504, 8.561)",3h
+12,Schedule Plan 1,1,Scene 1,"Alex Wilson, Riley Williams","Gimbal B, Drone D",Oerlikon,"(47.4105, 8.5445)",1h
+12,Schedule Plan 1,2,Scene 2,"Morgan Miller, Riley Taylor","Boom Mic I, Boom Mic H",Seebach,"(47.4223, 8.5414)",2h
+12,Schedule Plan 1,3,Scene 3,"Jordan Brown, Skyler Smith","Microphone J, Microphone B",Affoltern,"(47.4184, 8.5246)",1h
+12,Schedule Plan 2,1,Scene 1,"Alex Wilson, Riley Williams","Gimbal B, Drone D",Oerlikon,"(47.4105, 8.5445)",1h
+12,Schedule Plan 2,2,Scene 2,"Morgan Miller, Riley Taylor","Boom Mic I, Boom Mic H",Winterthur,"(47.4988, 8.7237)",2h
+12,Schedule Plan 2,3,Scene 3,"Jordan Brown, Skyler Smith","Microphone J, Microphone B",Zürich Flughafen,"(47.4504, 8.561)",3h
+13,Schedule Plan 1,1,Scene 1,"Alex Moore, Sam Williams","Drone J, Gimbal G",Oerlikon,"(47.4105, 8.5445)",1h
+13,Schedule Plan 1,2,Scene 2,"Jordan Taylor, Skyler Williams","Boom Mic H, Microphone B",Seebach,"(47.4223, 8.5414)",2h
+13,Schedule Plan 1,3,Scene 3,"Jamie Taylor, Morgan Moore","Microphone C, Gimbal A",Affoltern,"(47.4184, 8.5246)",1h
+13,Schedule Plan 2,1,Scene 1,"Alex Moore, Sam Williams","Drone J, Gimbal G",Oerlikon,"(47.4105, 8.5445)",1h
+13,Schedule Plan 2,2,Scene 2,"Jordan Taylor, Skyler Williams","Boom Mic H, Microphone B",Winterthur,"(47.4988, 8.7237)",2h
+13,Schedule Plan 2,3,Scene 3,"Jamie Taylor, Morgan Moore","Microphone C, Gimbal A",Zürich Flughafen,"(47.4504, 8.561)",3h
+14,Schedule Plan 1,1,Scene 1,"Casey Johnson, Riley Brown","Boom Mic B, Drone I",Oerlikon,"(47.4105, 8.5445)",1h
+14,Schedule Plan 1,2,Scene 2,"Alex Miller, Jordan Davis","Microphone D, Boom Mic I",Seebach,"(47.4223, 8.5414)",2h
+14,Schedule Plan 1,3,Scene 3,"Skyler Brown, Sam Wilson","Microphone E, Camera D",Affoltern,"(47.4184, 8.5246)",1h
+14,Schedule Plan 2,1,Scene 1,"Casey Johnson, Riley Brown","Boom Mic B, Drone I",Oerlikon,"(47.4105, 8.5445)",1h
+14,Schedule Plan 2,2,Scene 2,"Alex Miller, Jordan Davis","Microphone D, Boom Mic I",Winterthur,"(47.4988, 8.7237)",2h
+14,Schedule Plan 2,3,Scene 3,"Skyler Brown, Sam Wilson","Microphone E, Camera D",Zürich Flughafen,"(47.4504, 8.561)",3h
+15,Schedule Plan 1,1,Scene 1,"Jamie Brown, Jordan Moore","Drone B, Boom Mic B",Oerlikon,"(47.4105, 8.5445)",1h
+15,Schedule Plan 1,2,Scene 2,"Sam Smith, Riley Taylor","Drone G, Gimbal F",Seebach,"(47.4223, 8.5414)",2h
+15,Schedule Plan 1,3,Scene 3,"Jordan Taylor, Casey Wilson","Boom Mic D, Camera A",Affoltern,"(47.4184, 8.5246)",1h
+15,Schedule Plan 2,1,Scene 1,"Jamie Brown, Jordan Moore","Drone B, Boom Mic B",Oerlikon,"(47.4105, 8.5445)",1h
+15,Schedule Plan 2,2,Scene 2,"Sam Smith, Riley Taylor","Drone G, Gimbal F",Winterthur,"(47.4988, 8.7237)",2h
+15,Schedule Plan 2,3,Scene 3,"Jordan Taylor, Casey Wilson","Boom Mic D, Camera A",Zürich Flughafen,"(47.4504, 8.561)",3h
+16,Schedule Plan 1,1,Scene 1,"Alex Davis, Jamie Williams","Microphone C, Gimbal A",Oerlikon,"(47.4105, 8.5445)",1h
+16,Schedule Plan 1,2,Scene 2,"Alex Moore, Jamie Smith","Drone D, Gimbal I",Seebach,"(47.4223, 8.5414)",2h
+16,Schedule Plan 1,3,Scene 3,"Skyler Jones, River Jones","Gimbal D, Boom Mic F",Affoltern,"(47.4184, 8.5246)",1h
+16,Schedule Plan 2,1,Scene 1,"Alex Davis, Jamie Williams","Microphone C, Gimbal A",Oerlikon,"(47.4105, 8.5445)",1h
+16,Schedule Plan 2,2,Scene 2,"Alex Moore, Jamie Smith","Drone D, Gimbal I",Winterthur,"(47.4988, 8.7237)",2h
+16,Schedule Plan 2,3,Scene 3,"Skyler Jones, River Jones","Gimbal D, Boom Mic F",Zürich Flughafen,"(47.4504, 8.561)",3h
+17,Schedule Plan 1,1,Scene 1,"Riley Wilson, Taylor Taylor","Gimbal G, Microphone F",Oerlikon,"(47.4105, 8.5445)",1h
+17,Schedule Plan 1,2,Scene 2,"Jordan Brown, Jordan Miller","Microphone C, Camera D",Seebach,"(47.4223, 8.5414)",2h
+17,Schedule Plan 1,3,Scene 3,"Taylor Davis, Jamie Wilson","Gimbal H, Boom Mic D",Affoltern,"(47.4184, 8.5246)",1h
+17,Schedule Plan 2,1,Scene 1,"Riley Wilson, Taylor Taylor","Gimbal G, Microphone F",Oerlikon,"(47.4105, 8.5445)",1h
+17,Schedule Plan 2,2,Scene 2,"Jordan Brown, Jordan Miller","Microphone C, Camera D",Winterthur,"(47.4988, 8.7237)",2h
+17,Schedule Plan 2,3,Scene 3,"Taylor Davis, Jamie Wilson","Gimbal H, Boom Mic D",Zürich Flughafen,"(47.4504, 8.561)",3h
+18,Schedule Plan 1,1,Scene 1,"Taylor Moore, River Smith","Gimbal C, Boom Mic D",Oerlikon,"(47.4105, 8.5445)",1h
+18,Schedule Plan 1,2,Scene 2,"River Davis, Casey Johnson","Drone H, Gimbal F",Seebach,"(47.4223, 8.5414)",2h
+18,Schedule Plan 1,3,Scene 3,"Jamie Wilson, Taylor Miller","Camera I, Microphone C",Affoltern,"(47.4184, 8.5246)",1h
+18,Schedule Plan 2,1,Scene 1,"Taylor Moore, River Smith","Gimbal C, Boom Mic D",Oerlikon,"(47.4105, 8.5445)",1h
+18,Schedule Plan 2,2,Scene 2,"River Davis, Casey Johnson","Drone H, Gimbal F",Winterthur,"(47.4988, 8.7237)",2h
+18,Schedule Plan 2,3,Scene 3,"Jamie Wilson, Taylor Miller","Camera I, Microphone C",Zürich Flughafen,"(47.4504, 8.561)",3h
+19,Schedule Plan 1,1,Scene 1,"Sam Miller, Alex Miller","Camera D, Microphone B",Oerlikon,"(47.4105, 8.5445)",1h
+19,Schedule Plan 1,2,Scene 2,"Jamie Brown, Skyler Brown","Drone D, Boom Mic C",Seebach,"(47.4223, 8.5414)",2h
+19,Schedule Plan 1,3,Scene 3,"Morgan Brown, Taylor Wilson","Microphone E, Microphone F",Affoltern,"(47.4184, 8.5246)",1h
+19,Schedule Plan 2,1,Scene 1,"Sam Miller, Alex Miller","Camera D, Microphone B",Oerlikon,"(47.4105, 8.5445)",1h
+19,Schedule Plan 2,2,Scene 2,"Jamie Brown, Skyler Brown","Drone D, Boom Mic C",Winterthur,"(47.4988, 8.7237)",2h
+19,Schedule Plan 2,3,Scene 3,"Morgan Brown, Taylor Wilson","Microphone E, Microphone F",Zürich Flughafen,"(47.4504, 8.561)",3h
+20,Schedule Plan 1,1,Scene 1,"Riley Brown, Alex Moore","Drone F, Microphone H",Oerlikon,"(47.4105, 8.5445)",1h
+20,Schedule Plan 1,2,Scene 2,"Morgan Davis, Casey Jones","Camera C, Microphone E",Seebach,"(47.4223, 8.5414)",2h
+20,Schedule Plan 1,3,Scene 3,"Casey Wilson, Skyler Brown","Gimbal C, Drone B",Affoltern,"(47.4184, 8.5246)",1h
+20,Schedule Plan 2,1,Scene 1,"Riley Brown, Alex Moore","Drone F, Microphone H",Oerlikon,"(47.4105, 8.5445)",1h
+20,Schedule Plan 2,2,Scene 2,"Morgan Davis, Casey Jones","Camera C, Microphone E",Winterthur,"(47.4988, 8.7237)",2h
+20,Schedule Plan 2,3,Scene 3,"Casey Wilson, Skyler Brown","Gimbal C, Drone B",Zürich Flughafen,"(47.4504, 8.561)",3h
+21,Schedule Plan 1,1,Scene 1,"Alex Wilson, Riley Williams","Gimbal B, Drone D",Oerlikon,"(47.4105, 8.5445)",1h
+21,Schedule Plan 1,2,Scene 2,"Morgan Miller, Riley Taylor","Boom Mic I, Boom Mic H",Seebach,"(47.4223, 8.5414)",2h
+21,Schedule Plan 1,3,Scene 3,"Jordan Brown, Skyler Smith","Microphone J, Microphone B",Affoltern,"(47.4184, 8.5246)",1h
+21,Schedule Plan 2,1,Scene 1,"Alex Wilson, Riley Williams","Gimbal B, Drone D",Oerlikon,"(47.4105, 8.5445)",1h
+21,Schedule Plan 2,2,Scene 2,"Morgan Miller, Riley Taylor","Boom Mic I, Boom Mic H",Winterthur,"(47.4988, 8.7237)",2h
+21,Schedule Plan 2,3,Scene 3,"Jordan Brown, Skyler Smith","Microphone J, Microphone B",Zürich Flughafen,"(47.4504, 8.561)",3h
+22,Schedule Plan 1,1,Scene 1,"Alex Moore, Sam Williams","Drone J, Gimbal G",Oerlikon,"(47.4105, 8.5445)",1h
+22,Schedule Plan 1,2,Scene 2,"Jordan Taylor, Skyler Williams","Boom Mic H, Microphone B",Seebach,"(47.4223, 8.5414)",2h
+22,Schedule Plan 1,3,Scene 3,"Jamie Taylor, Morgan Moore","Microphone C, Gimbal A",Affoltern,"(47.4184, 8.5246)",1h
+22,Schedule Plan 2,1,Scene 1,"Alex Moore, Sam Williams","Drone J, Gimbal G",Oerlikon,"(47.4105, 8.5445)",1h
+22,Schedule Plan 2,2,Scene 2,"Jordan Taylor, Skyler Williams","Boom Mic H, Microphone B",Winterthur,"(47.4988, 8.7237)",2h
+22,Schedule Plan 2,3,Scene 3,"Jamie Taylor, Morgan Moore","Microphone C, Gimbal A",Zürich Flughafen,"(47.4504, 8.561)",3h
+23,Schedule Plan 1,1,Scene 1,"Casey Johnson, Riley Brown","Boom Mic B, Drone I",Oerlikon,"(47.4105, 8.5445)",1h
+23,Schedule Plan 1,2,Scene 2,"Alex Miller, Jordan Davis","Microphone D, Boom Mic I",Seebach,"(47.4223, 8.5414)",2h
+23,Schedule Plan 1,3,Scene 3,"Skyler Brown, Sam Wilson","Microphone E, Camera D",Affoltern,"(47.4184, 8.5246)",1h
+23,Schedule Plan 2,1,Scene 1,"Casey Johnson, Riley Brown","Boom Mic B, Drone I",Oerlikon,"(47.4105, 8.5445)",1h
+23,Schedule Plan 2,2,Scene 2,"Alex Miller, Jordan Davis","Microphone D, Boom Mic I",Winterthur,"(47.4988, 8.7237)",2h
+23,Schedule Plan 2,3,Scene 3,"Skyler Brown, Sam Wilson","Microphone E, Camera D",Zürich Flughafen,"(47.4504, 8.561)",3h
+24,Schedule Plan 1,1,Scene 1,"Jamie Brown, Jordan Moore","Drone B, Boom Mic B",Oerlikon,"(47.4105, 8.5445)",1h
+24,Schedule Plan 1,2,Scene 2,"Sam Smith, Riley Taylor","Drone G, Gimbal F",Seebach,"(47.4223, 8.5414)",2h
+24,Schedule Plan 1,3,Scene 3,"Jordan Taylor, Casey Wilson","Boom Mic D, Camera A",Affoltern,"(47.4184, 8.5246)",1h
+24,Schedule Plan 2,1,Scene 1,"Jamie Brown, Jordan Moore","Drone B, Boom Mic B",Oerlikon,"(47.4105, 8.5445)",1h
+24,Schedule Plan 2,2,Scene 2,"Sam Smith, Riley Taylor","Drone G, Gimbal F",Winterthur,"(47.4988, 8.7237)",2h
+24,Schedule Plan 2,3,Scene 3,"Jordan Taylor, Casey Wilson","Boom Mic D, Camera A",Zürich Flughafen,"(47.4504, 8.561)",3h
+25,Schedule Plan 1,1,Scene 1,"Alex Davis, Jamie Williams","Microphone C, Gimbal A",Oerlikon,"(47.4105, 8.5445)",1h
+25,Schedule Plan 1,2,Scene 2,"Alex Moore, Jamie Smith","Drone D, Gimbal I",Seebach,"(47.4223, 8.5414)",2h
+25,Schedule Plan 1,3,Scene 3,"Skyler Jones, River Jones","Gimbal D, Boom Mic F",Affoltern,"(47.4184, 8.5246)",1h
+25,Schedule Plan 2,1,Scene 1,"Alex Davis, Jamie Williams","Microphone C, Gimbal A",Oerlikon,"(47.4105, 8.5445)",1h
+25,Schedule Plan 2,2,Scene 2,"Alex Moore, Jamie Smith","Drone D, Gimbal I",Winterthur,"(47.4988, 8.7237)",2h
+25,Schedule Plan 2,3,Scene 3,"Skyler Jones, River Jones","Gimbal D, Boom Mic F",Zürich Flughafen,"(47.4504, 8.561)",3h
+26,Schedule Plan 1,1,Scene 1,"Riley Wilson, Taylor Taylor","Gimbal G, Microphone F",Oerlikon,"(47.4105, 8.5445)",1h
+26,Schedule Plan 1,2,Scene 2,"Jordan Brown, Jordan Miller","Microphone C, Camera D",Seebach,"(47.4223, 8.5414)",2h
+26,Schedule Plan 1,3,Scene 3,"Taylor Davis, Jamie Wilson","Gimbal H, Boom Mic D",Affoltern,"(47.4184, 8.5246)",1h
+26,Schedule Plan 2,1,Scene 1,"Riley Wilson, Taylor Taylor","Gimbal G, Microphone F",Oerlikon,"(47.4105, 8.5445)",1h
+26,Schedule Plan 2,2,Scene 2,"Jordan Brown, Jordan Miller","Microphone C, Camera D",Winterthur,"(47.4988, 8.7237)",2h
+26,Schedule Plan 2,3,Scene 3,"Taylor Davis, Jamie Wilson","Gimbal H, Boom Mic D",Zürich Flughafen,"(47.4504, 8.561)",3h
+27,Schedule Plan 1,1,Scene 1,"Taylor Moore, River Smith","Gimbal C, Boom Mic D",Oerlikon,"(47.4105, 8.5445)",1h
+27,Schedule Plan 1,2,Scene 2,"River Davis, Casey Johnson","Drone H, Gimbal F",Seebach,"(47.4223, 8.5414)",2h
+27,Schedule Plan 1,3,Scene 3,"Jamie Wilson, Taylor Miller","Camera I, Microphone C",Affoltern,"(47.4184, 8.5246)",1h
+27,Schedule Plan 2,1,Scene 1,"Taylor Moore, River Smith","Gimbal C, Boom Mic D",Oerlikon,"(47.4105, 8.5445)",1h
+27,Schedule Plan 2,2,Scene 2,"River Davis, Casey Johnson","Drone H, Gimbal F",Winterthur,"(47.4988, 8.7237)",2h
+27,Schedule Plan 2,3,Scene 3,"Jamie Wilson, Taylor Miller","Camera I, Microphone C",Zürich Flughafen,"(47.4504, 8.561)",3h
+28,Schedule Plan 1,1,Scene 1,"Sam Miller, Alex Miller","Camera D, Microphone B",Oerlikon,"(47.4105, 8.5445)",1h
+28,Schedule Plan 1,2,Scene 2,"Jamie Brown, Skyler Brown","Drone D, Boom Mic C",Seebach,"(47.4223, 8.5414)",2h
+28,Schedule Plan 1,3,Scene 3,"Morgan Brown, Taylor Wilson","Microphone E, Microphone F",Affoltern,"(47.4184, 8.5246)",1h
+28,Schedule Plan 2,1,Scene 1,"Sam Miller, Alex Miller","Camera D, Microphone B",Oerlikon,"(47.4105, 8.5445)",1h
+28,Schedule Plan 2,2,Scene 2,"Jamie Brown, Skyler Brown","Drone D, Boom Mic C",Winterthur,"(47.4988, 8.7237)",2h
+28,Schedule Plan 2,3,Scene 3,"Morgan Brown, Taylor Wilson","Microphone E, Microphone F",Zürich Flughafen,"(47.4504, 8.561)",3h
+29,Schedule Plan 1,1,Scene 1,"Riley Brown, Alex Moore","Drone F, Microphone H",Oerlikon,"(47.4105, 8.5445)",1h
+29,Schedule Plan 1,2,Scene 2,"Morgan Davis, Casey Jones","Camera C, Microphone E",Seebach,"(47.4223, 8.5414)",2h
+29,Schedule Plan 1,3,Scene 3,"Casey Wilson, Skyler Brown","Gimbal C, Drone B",Affoltern,"(47.4184, 8.5246)",1h
+29,Schedule Plan 2,1,Scene 1,"Riley Brown, Alex Moore","Drone F, Microphone H",Oerlikon,"(47.4105, 8.5445)",1h
+29,Schedule Plan 2,2,Scene 2,"Morgan Davis, Casey Jones","Camera C, Microphone E",Winterthur,"(47.4988, 8.7237)",2h
+29,Schedule Plan 2,3,Scene 3,"Casey Wilson, Skyler Brown","Gimbal C, Drone B",Zürich Flughafen,"(47.4504, 8.561)",3h
+30,Schedule Plan 1,1,Scene 1,"Alex Wilson, Riley Williams","Gimbal B, Drone D",Oerlikon,"(47.4105, 8.5445)",1h
+30,Schedule Plan 1,2,Scene 2,"Morgan Miller, Riley Taylor","Boom Mic I, Boom Mic H",Seebach,"(47.4223, 8.5414)",2h
+30,Schedule Plan 1,3,Scene 3,"Jordan Brown, Skyler Smith","Microphone J, Microphone B",Affoltern,"(47.4184, 8.5246)",1h
+30,Schedule Plan 2,1,Scene 1,"Alex Wilson, Riley Williams","Gimbal B, Drone D",Oerlikon,"(47.4105, 8.5445)",1h
+30,Schedule Plan 2,2,Scene 2,"Morgan Miller, Riley Taylor","Boom Mic I, Boom Mic H",Winterthur,"(47.4988, 8.7237)",2h
+30,Schedule Plan 2,3,Scene 3,"Jordan Brown, Skyler Smith","Microphone J, Microphone B",Zürich Flughafen,"(47.4504, 8.561)",3h
